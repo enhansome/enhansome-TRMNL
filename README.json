@@ -1,64 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "⚡Firmware & Firmware flashing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🖱️ Development"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🔨 Development - Boilerplates"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🔌 Plugins - General"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "👨‍💻 Plugins - Homelab (for IT tech enthusiasts)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🏠 Plugins - Smart Home (Home Assistant, Energy)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📺 Screen generators"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "👾 Extra's"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Follow"
-    },
-    {
-      "description": "Contributions of any kind welcome, just follow the guidelines!",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "Thanks goes to these contributors!",
-      "items": [],
-      "title": "Contributors"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T21:58:26.851Z",
+    "last_updated": "2026-08-19T12:15:36.216Z",
     "original_repository": "eindpunt/awesome-TRMNL",
+    "original_repository_id": 910305304,
     "original_repository_sha": "c225a86563373d1548006a3c1fadc75369248822",
     "enhanced_repository": "enhansome/enhansome-TRMNL",
     "enhanced_repository_description": null,
