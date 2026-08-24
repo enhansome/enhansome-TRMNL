@@ -1,7 +1,2615 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alternative Firmware",
+          "description": "Alternative firmware for the official TRMNL firmware with Rust and Nix covercash2 Firmware Firmware",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 945230810,
+            "language": "Rust",
+            "last_commit": "2025-04-21T03:07:57Z",
+            "owner": "covercash2",
+            "repo": "trmnl_rs",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESPHome firmware",
+          "description": "ESPHome firmware for TRMNL jesserockz Firmware Firmware",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 917449089,
+            "language": null,
+            "last_commit": "2026-03-16T11:33:17Z",
+            "owner": "jesserockz",
+            "repo": "esphome-trmnl",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Homeplate",
+          "description": "Firmware for the Inkplate 10 lanrat Firmware Firmware",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 450953342,
+            "language": "C",
+            "last_commit": "2026-08-23T22:29:05Z",
+            "owner": "lanrat",
+            "repo": "homeplate",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TRMNL firmware",
+          "description": "Official TRMNL firmware usetrmnl Firmware Firmware",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 742912310,
+            "language": "C",
+            "last_commit": "2026-08-21T22:34:47Z",
+            "owner": "usetrmnl",
+            "repo": "trmnl-firmware",
+            "stars": 1144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WaveShare ESP32-WROOM epaper board TRMNL Firmware",
+          "description": "TRMNL firmware for WaveShare ESP32-WROOM epaper board JayJay1989 Firmware Firmware",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 929133050,
+            "language": "C++",
+            "last_commit": "2025-03-02T10:03:49Z",
+            "owner": "JayJay1989",
+            "repo": "firmware",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "⚡Firmware & Firmware flashing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Azure DevOps Pull Requests",
+          "description": "Fetches Azure DevOps pull requests VanBelleRik Plugin Development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1067955126,
+            "language": "Liquid",
+            "last_commit": "2025-10-02T08:59:51Z",
+            "owner": "VanBelleRik",
+            "repo": "azure-devops-pull-requests-trmnl",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emulate TRMNL display",
+          "description": "Webpage to emulate the TRMNL display jackmawer Tool Development",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 933828160,
+            "language": "HTML",
+            "last_commit": "2025-07-20T15:32:28Z",
+            "owner": "jackmawer",
+            "repo": "virtual-trmnl",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Workflows",
+          "description": "Shows the last 100 GitHub workflows of a custom repo jcorbalanm Plugin Development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1070425533,
+            "language": "Liquid",
+            "last_commit": "2025-10-13T17:29:22Z",
+            "owner": "jcorbalanm",
+            "repo": "trmnl-github-workflows",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel TRMNL",
+          "description": "Develop TRMNL plugins with Laravel bnussbau Framework Development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 916707756,
+            "language": "PHP",
+            "last_commit": "2026-06-22T16:08:46Z",
+            "owner": "bnussbau",
+            "repo": "laravel-trmnl",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LocalPaper",
+          "description": "Local composer for Trmnl device medo64 Framework Development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 989472907,
+            "language": "C#",
+            "last_commit": "2025-11-21T15:12:31Z",
+            "owner": "medo64",
+            "repo": "LocalPaper",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenRouter Tracker",
+          "description": "Display OpenRouter usage data saysharastuff Plugin Development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1069872468,
+            "language": "Liquid",
+            "last_commit": "2025-10-05T13:31:52Z",
+            "owner": "saysharastuff",
+            "repo": "openrouter-tracker",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plugin Tester",
+          "description": "Development tool for testing TRMNL plugins gitstua Tool Development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 925257592,
+            "language": "Liquid",
+            "last_commit": "2025-02-25T11:03:10Z",
+            "owner": "gitstua",
+            "repo": "trmnl-plugin-dev",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plugin DEV kit",
+          "description": "Plugin development kit for TRMNL devices sdjmchattie Framework Development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 933277881,
+            "language": "Liquid",
+            "last_commit": "2025-02-20T22:46:53Z",
+            "owner": "sdjmchattie",
+            "repo": "trmnl-plugin-dev-kit",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sentry Monitor",
+          "description": "Display Sentry project metrics kraynel Plugin Development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1067727910,
+            "language": "Liquid",
+            "last_commit": "2025-10-03T16:35:11Z",
+            "owner": "kraynel",
+            "repo": "trmnl-sentry",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "🖱️ Development"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TRMNL hello (liquid)",
+          "description": "Boilerplate for the trmnl_preview dev server schrockwell Boilerplate Development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 912552964,
+            "language": "Liquid",
+            "last_commit": "2025-01-07T17:23:43Z",
+            "owner": "schrockwell",
+            "repo": "trmnl-hello",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python Boilerplate",
+          "description": "Python boilerplate for TRMNL OptimumMeans Boilerplate Development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 909512041,
+            "language": "Python",
+            "last_commit": "2024-12-30T01:56:41Z",
+            "owner": "OptimumMeans",
+            "repo": "TRMNL-Boilerplate",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "🔨 Development - Boilerplates"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "useTRMNL",
+          "description": "Featured TRMNL plugins useTRMNL Plugin Utilities Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 825483567,
+            "language": "HTML",
+            "last_commit": "2026-08-23T23:15:12Z",
+            "owner": "usetrmnl",
+            "repo": "plugins",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adafruit IO",
+          "description": "Adafruit IO integration stephenyeargin Plugin IoT Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1014519592,
+            "language": "Liquid",
+            "last_commit": "2026-08-01T16:36:39Z",
+            "owner": "stephenyeargin",
+            "repo": "trmnl-adafruit-io",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "American College Football top 10",
+          "description": "College Football top 10 ranking SnarfulSolutionsGroup Plugin Sports USA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 878591390,
+            "language": null,
+            "last_commit": "2024-10-25T18:26:28Z",
+            "owner": "SnarfulSolutionsGroup",
+            "repo": "TRMNL-Plugins",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anime of the Day",
+          "description": "Displays a random anime of the day from Anilist Saious119 Plugin Entertainment Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 974611139,
+            "language": "JavaScript",
+            "last_commit": "2026-06-02T15:01:09Z",
+            "owner": "Saious119",
+            "repo": "trmnl-anime-of-the-day",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anki Cards",
+          "description": "Display Anki flashcards ItsJustThomas Plugin Education Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1023296060,
+            "language": "Python",
+            "last_commit": "2025-09-15T03:52:35Z",
+            "owner": "ItsJustThomas",
+            "repo": "trmnl-anki",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apple Photos",
+          "description": "Display Apple Photos library zegl Plugin Productivity Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 984342949,
+            "language": "TypeScript",
+            "last_commit": "2026-04-05T17:11:36Z",
+            "owner": "zegl",
+            "repo": "trmnl-apple-photos",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apple Reminders",
+          "description": "Display Apple Reminders tasks sdjmchattie Plugin Productivity Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 932302106,
+            "language": "HTML",
+            "last_commit": "2026-06-11T18:25:13Z",
+            "owner": "sdjmchattie",
+            "repo": "trmnl-apple-reminders",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Baseball schedule: St. Louis Cardinals",
+          "description": "Fetch St. Louis Cardinals baseball schedule & standings kevdog114 Plugin Sports USA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 987285051,
+            "language": "Python",
+            "last_commit": "2025-10-04T23:56:04Z",
+            "owner": "kevdog114",
+            "repo": "trmnl_stlcards",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Berlin's BVG Transit",
+          "description": "Monitors Berlin's BVG public transportation danmunoz Plugin Transit Germany",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 967655564,
+            "language": "Liquid",
+            "last_commit": "2026-05-18T09:21:00Z",
+            "owner": "danmunoz",
+            "repo": "trmnl-bvg-transit",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Block Clock",
+          "description": "A block clock display tyler-dot-earth Plugin Utilities Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 918430109,
+            "language": "HTML",
+            "last_commit": "2025-01-17T23:16:53Z",
+            "owner": "tyler-dot-earth",
+            "repo": "trmnl-notblockclock",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bookclub planner",
+          "description": "Plan and track book club reading bnussbau Plugin Lifestyle Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1027644342,
+            "language": "Liquid",
+            "last_commit": "2025-10-06T11:33:44Z",
+            "owner": "bnussbau",
+            "repo": "trmnl-bookclub-planner",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bouldering Gym: Check how busy it is",
+          "description": "Displays current occupancy of bouldering gyms via rockgympro.com tquin Plugin Sports / Fitness USA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 997686569,
+            "language": "Liquid",
+            "last_commit": "2026-04-24T17:05:56Z",
+            "owner": "tquin",
+            "repo": "trmnl-bouldering",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bundesliga Results",
+          "description": "Displays Bundesliga matchday fixtures and tables philippheldt Plugin Sports Germany",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1037441224,
+            "language": "HTML",
+            "last_commit": "2025-09-30T08:10:06Z",
+            "owner": "philippheldt",
+            "repo": "TRMNL_Bundesliga-Results",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calibre e-book dashboard",
+          "description": "Display Calibre-web library stats on TRMNL e-ink goodlibbin Plugin Productivity Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1009384624,
+            "language": "Python",
+            "last_commit": "2025-07-01T22:07:20Z",
+            "owner": "goodlibbin",
+            "repo": "trmnl-calibre-template",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chuck Norris facts",
+          "description": "Random Chuck Norris facts OptimumMeans Plugin Entertainment Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 909524532,
+            "language": "Python",
+            "last_commit": "2024-12-29T01:48:34Z",
+            "owner": "OptimumMeans",
+            "repo": "TRMNL-Chuck-Norris",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Countdown plugin",
+          "description": "Countdown to a specific date with emoji and text jvdmeij Plugin Utilities Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 940237731,
+            "language": "Liquid",
+            "last_commit": "2026-03-08T19:13:52Z",
+            "owner": "jvdmeij",
+            "repo": "trmnl-countdown",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crypto Fear & Greed",
+          "description": "Displays crypto market fear & greed using Alternate API jvdmeij Plugin Finance / Crypto Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 940237969,
+            "language": "Liquid",
+            "last_commit": "2026-03-08T18:48:12Z",
+            "owner": "jvdmeij",
+            "repo": "trmnl-crypto-fear-and-greed",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cyber Security conferences",
+          "description": "Cyber security conference deadlines AlixAbbasi Plugin Education / Security Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 901296873,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:13:24Z",
+            "owner": "AlixAbbasi",
+            "repo": "TRMNL-Sec-Deadlines",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Daily comic xkcd",
+          "description": "Daily comic from xkcd SnarfulSolutionsGroup Plugin Entertainment Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 878591390,
+            "language": null,
+            "last_commit": "2024-10-25T18:26:28Z",
+            "owner": "SnarfulSolutionsGroup",
+            "repo": "TRMNL-Plugins",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Digital Archaeologist",
+          "description": "Digital Archaeologist OptimumMeans Plugin Education / History Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 905040840,
+            "language": "Python",
+            "last_commit": "2024-12-18T08:10:50Z",
+            "owner": "OptimumMeans",
+            "repo": "TRMNL-Digital-Archaeologist",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discord Bot",
+          "description": "Discord bot integration OptimumMeans Plugin Productivity / Communication Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 907245559,
+            "language": "Python",
+            "last_commit": "2024-12-25T01:54:55Z",
+            "owner": "OptimumMeans",
+            "repo": "TRMNL-Discord-Bot",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Europe League Results",
+          "description": "Displays Europa League group & knockout stage tables philippheldt Plugin Sports Europe",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1066974135,
+            "language": "HTML",
+            "last_commit": "2025-09-30T08:20:55Z",
+            "owner": "philippheldt",
+            "repo": "TRMNL_Europa_League-Results",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FBI most wanted",
+          "description": "Random info on FBI Most Wanted fugitives OptimumMeans Plugin Law / Education USA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 909578853,
+            "language": "Python",
+            "last_commit": "2025-07-09T00:52:51Z",
+            "owner": "OptimumMeans",
+            "repo": "TRMNL-FBI-Most-Wanted",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fathom Analytics",
+          "description": "Fathom Analytics integration rknightuk Plugin Analytics / Web Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 999188618,
+            "language": "Liquid",
+            "last_commit": "2025-06-12T09:22:58Z",
+            "owner": "rknightuk",
+            "repo": "trmnl-fathom-analytics",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Focus Blocks",
+          "description": "Focus time block tracker btertoolen Plugin Productivity Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 964707464,
+            "language": "Liquid",
+            "last_commit": "2025-04-11T21:09:07Z",
+            "owner": "btertoolen",
+            "repo": "trmnl_focus_blocks_plugin",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foxhole maps",
+          "description": "Foxhole game war status maps Stedrow Plugin Gaming Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1050115324,
+            "language": "JavaScript",
+            "last_commit": "2025-12-30T02:17:17Z",
+            "owner": "stedrow",
+            "repo": "foxhole-trmnl-dashboard",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fruit Facts",
+          "description": "Random fruit facts OptimumMeans Plugin Education / Fun Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 909573363,
+            "language": "Python",
+            "last_commit": "2024-12-29T06:02:04Z",
+            "owner": "OptimumMeans",
+            "repo": "TRMNL-Fruit-Facts",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Commit Graph",
+          "description": "GitHub commit tracker graph useTRMNL Plugin Productivity / Analytics Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 825483567,
+            "language": "HTML",
+            "last_commit": "2026-08-23T23:15:12Z",
+            "owner": "usetrmnl",
+            "repo": "plugins",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Goals Manager",
+          "description": "Personal goals manager nmartinovic Plugin Productivity Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 924180757,
+            "language": "JavaScript",
+            "last_commit": "2025-02-05T11:32:40Z",
+            "owner": "nmartinovic",
+            "repo": "trmnl-goals-manager",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Keep todo list",
+          "description": "Display Google Keep todo list ellipticview Plugin Productivity Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 925571851,
+            "language": "JavaScript",
+            "last_commit": "2025-05-03T06:06:56Z",
+            "owner": "ellipticview",
+            "repo": "trmnl-google-keep",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ground Control ISS data",
+          "description": "Fetches International Space Station data vanbrabantf Plugin Science / Space Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 914544299,
+            "language": "TypeScript",
+            "last_commit": "2025-01-09T20:44:18Z",
+            "owner": "vanbrabantf",
+            "repo": "Ground-Control-TRMNL",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Habitica Tasks",
+          "description": "Show all tasks from Habitica thepeopleseason Plugin Productivity / Gamification Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1046005807,
+            "language": "Liquid",
+            "last_commit": "2025-12-05T14:46:54Z",
+            "owner": "thepeopleseason",
+            "repo": "trmnl-plugins",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Habitify",
+          "description": "Habit tracking via Habitify sejtenik Plugin Productivity / Health Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 909817609,
+            "language": "Ruby",
+            "last_commit": "2025-03-23T11:31:43Z",
+            "owner": "sejtenik",
+            "repo": "trmnl-habitify-plugin",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacker News",
+          "description": "Hacker News feed display useTRMNL Plugin News / Technology Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 825483567,
+            "language": "HTML",
+            "last_commit": "2026-08-23T23:15:12Z",
+            "owner": "usetrmnl",
+            "repo": "plugins",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hardcover statistics",
+          "description": "Display Hardcover social network statistics for book lovers jacobtender Plugin Lifestyle / Education Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1024556976,
+            "language": "Liquid",
+            "last_commit": "2026-04-30T22:39:35Z",
+            "owner": "jacobtender",
+            "repo": "hardcover_trmnl",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iCal Calendar Flask web service",
+          "description": "iCal Flask web service shyamvenugopalan Plugin Productivity / Calendar Global",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 942775460,
+            "language": "HTML",
+            "last_commit": "2025-03-04T16:56:23Z",
+            "owner": "shyamvenugopalan",
+            "repo": "trmnl-ical-calendar-server",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ICS Calendar",
+          "description": "Fetch and display ICS calendar events in multi-column format jfsso Plugin Productivity / Calendar Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 897158204,
+            "language": "Python",
+            "last_commit": "2025-06-23T03:00:44Z",
+            "owner": "jfsso",
+            "repo": "trmnl-calendar",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Japan 72 Seasons",
+          "description": "Display traditional 72 Japanese seasons pipwilson Plugin Culture / Education Japan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1007868045,
+            "language": "Liquid",
+            "last_commit": "2025-12-31T17:17:55Z",
+            "owner": "pipwilson",
+            "repo": "trmnl-72-seasons",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KR TV guide",
+          "description": "Fetch daily Korean TV schedules (tv.kt.com) JJGrootveld Plugin Entertainment / TV South Korea",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 993698284,
+            "language": "Python",
+            "last_commit": "2025-12-07T08:41:45Z",
+            "owner": "JJGrootveld",
+            "repo": "trmnl-kr-tvguide",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LastFM last listened",
+          "description": "Get LastFM last track listened and user info monsieurm Plugin Entertainment / Music Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 945668141,
+            "language": "Liquid",
+            "last_commit": "2026-07-21T23:34:55Z",
+            "owner": "monsieurm",
+            "repo": "trmnl-lastfm",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LastFM",
+          "description": "LastFM dashboard display rknightuk Plugin Entertainment / Music Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1003854651,
+            "language": "Liquid",
+            "last_commit": "2025-06-17T19:12:59Z",
+            "owner": "rknightuk",
+            "repo": "trmnl-lastfm",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Libra weight tracker",
+          "description": "Displays Libra weight tracker sejtenik Plugin Productivity / Health Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 904289485,
+            "language": "Ruby",
+            "last_commit": "2025-03-28T19:41:39Z",
+            "owner": "sejtenik",
+            "repo": "trmnl-libra-cloud-plugin",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lumon Wellness facts",
+          "description": "Display facts about your Outie vimwtf Plugin Education / Fun Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1007438794,
+            "language": "Liquid",
+            "last_commit": "2025-08-05T02:20:52Z",
+            "owner": "vimwtf",
+            "repo": "trmnl-lumon-wellness",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MBTA Transport",
+          "description": "A real-time MBTA (Massachusetts Bay Transportation Authority) schedule display application RyanAngelo Plugin Transportation USA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 929097017,
+            "language": "Python",
+            "last_commit": "2026-03-06T16:19:59Z",
+            "owner": "RyanAngelo",
+            "repo": "trmnl-mbta",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MEH Deals",
+          "description": "Display the daily deal(s) from meh.com ajchili Plugin Shopping / Deals Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 930000619,
+            "language": "Liquid",
+            "last_commit": "2025-02-09T23:40:51Z",
+            "owner": "ajchili",
+            "repo": "meh-deals-trmnl-plugin",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magic 8-Ball",
+          "description": "Let the Magic 8-Ball make your decisions jvdmeij Plugin Fun / Entertainment Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 940238665,
+            "language": "Liquid",
+            "last_commit": "2026-03-08T19:13:22Z",
+            "owner": "jvdmeij",
+            "repo": "trmnl-magic-8-ball",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Malware Trending",
+          "description": "Malware Trending plugin youkergav Plugin Security / Tech Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1014125198,
+            "language": "Python",
+            "last_commit": "2025-07-22T22:26:26Z",
+            "owner": "youkergav",
+            "repo": "TRMNL-Malware-Trending-Plugin",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mario Kart tracks",
+          "description": "shows random Mario Kart tracks rknightuk Plugin Gaming / Fun Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1006262467,
+            "language": "Shell",
+            "last_commit": "2025-06-24T19:34:14Z",
+            "owner": "rknightuk",
+            "repo": "trmnl-mario-kart",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marvel Character of the Day",
+          "description": "Marvel Character of the Day MarkHopper24 Plugin Entertainment / Comics Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 908276242,
+            "language": "PowerShell",
+            "last_commit": "2026-08-24T05:46:05Z",
+            "owner": "MarkHopper24",
+            "repo": "Marvel-Character-of-the-Day",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marvel Comic Tracker",
+          "description": "Based on a user defined list display what Marvel comics are coming out this week Saious119 Plugin Entertainment / Comics Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 948842726,
+            "language": "JavaScript",
+            "last_commit": "2025-05-20T03:26:37Z",
+            "owner": "Saious119",
+            "repo": "trmnl-marvel-comic-tracker",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marvel Rivals Stat Tracker",
+          "description": "Track your Marvel Rival stats on your TRMNL device MarkHopper24 Plugin Gaming / Entertainment Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 988041645,
+            "language": "PowerShell",
+            "last_commit": "2025-06-14T19:43:26Z",
+            "owner": "MarkHopper24",
+            "repo": "Marvel-Rivals-TRMNL-Tracker",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matomo Analytics",
+          "description": "Matomo Analytics dashboard (Google Analytics alternative) stephenyeargin Plugin Analytics / Web Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1002458493,
+            "language": "Liquid",
+            "last_commit": "2026-08-01T16:38:08Z",
+            "owner": "stephenyeargin",
+            "repo": "trmnl-matomo",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metar Weather",
+          "description": "Displaying Weather conditions for a METAR station (METeorologial Aerodrome Reports), data is provided by NOAA's Aviation Weather Center schrockwell Plugin Weather Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 912464687,
+            "language": "Liquid",
+            "last_commit": "2026-06-29T14:16:59Z",
+            "owner": "schrockwell",
+            "repo": "trmnl-metar",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metrofresh soups",
+          "description": "An Express service that fetches the daily soup menu from MetroFresh via Menuat Bartlebyy Plugin Food / Recipes Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1001805082,
+            "language": "Liquid",
+            "last_commit": "2025-06-18T13:55:41Z",
+            "owner": "Bartlebyy",
+            "repo": "trmnl-plugin-metrofresh-soups",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Money Rates (St. Louis Federal Reserve)",
+          "description": "Money rates dashboard dmlandin Plugin Finance / Economics USA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1011411823,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:00:41Z",
+            "owner": "dmlandin",
+            "repo": "TRMNLmoneyRates",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moonphase display",
+          "description": "Displays the current Moon Phase schrockwell Plugin Astronomy / Science Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 914136534,
+            "language": "Liquid",
+            "last_commit": "2025-01-09T02:36:47Z",
+            "owner": "schrockwell",
+            "repo": "trmnl-moonphase",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NASA Deep Space Network",
+          "description": "Deep Space Network statistics schrockwell Plugin Space / Science Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 909131754,
+            "language": "Go",
+            "last_commit": "2026-02-14T18:17:50Z",
+            "owner": "schrockwell",
+            "repo": "trmnl-dsn",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NHL Next game",
+          "description": "NHL Next game cbdm Plugin Sports / Hockey North America",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 950726099,
+            "language": "Liquid",
+            "last_commit": "2025-03-19T02:36:37Z",
+            "owner": "cbdm",
+            "repo": "trmnl-plugins",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nashville Fire Department Incidents",
+          "description": "Nashville Fire Department Active Incidents stephenyeargin Plugin Emergency Services USA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1001782490,
+            "language": "Liquid",
+            "last_commit": "2026-08-01T16:42:57Z",
+            "owner": "stephenyeargin",
+            "repo": "trmnl-nfd-incidents",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nashville Police Dept. Active Dispatches (Metro)",
+          "description": "Metro Nashville Police Dept. Active Dispatches stephenyeargin Plugin Emergency Services USA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1001794974,
+            "language": "Liquid",
+            "last_commit": "2026-08-01T16:40:47Z",
+            "owner": "stephenyeargin",
+            "repo": "trmnl-mnpd-dispatches",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nightscout - blood sugar data",
+          "description": "TRMNL Nightscout fetches blood sugar data from Nightscout gabe565 Plugin Health / Medical Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 997782215,
+            "language": "Go",
+            "last_commit": "2026-08-21T08:04:54Z",
+            "owner": "gabe565",
+            "repo": "trmnl-nightscout",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ÖBB Train monitor",
+          "description": "Austrian ÖBB / OBB Train monitor bnussbau Plugin Transportation Austria",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 918268814,
+            "language": "PHP",
+            "last_commit": "2026-07-05T22:19:16Z",
+            "owner": "bnussbau",
+            "repo": "trmnl-train-monitor",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OGhunt",
+          "description": "A plugin to show the top five product hunt launches without AI Hacksore Plugin Tech / Productivity Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 949420739,
+            "language": "TypeScript",
+            "last_commit": "2026-01-29T21:46:15Z",
+            "owner": "Hacksore",
+            "repo": "oghunt-trmnl",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Obsidian",
+          "description": "Sample plugin to show Obsidian data on trmnl frethop Plugin Productivity / Note-taking Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 924677245,
+            "language": "TypeScript",
+            "last_commit": "2025-02-04T13:34:27Z",
+            "owner": "frethop",
+            "repo": "obsidian-TRMNL",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PagerDuty Display",
+          "description": "Are you on call today with PagerDuty? thepeopleseason Plugin Work / Productivity Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1046005807,
+            "language": "Liquid",
+            "last_commit": "2025-12-05T14:46:54Z",
+            "owner": "thepeopleseason",
+            "repo": "trmnl-plugins",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Postmark challenge",
+          "description": "Postmark challenges schrockwell Plugin Tech / Security Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 989783408,
+            "language": "JavaScript",
+            "last_commit": "2025-05-28T15:31:10Z",
+            "owner": "schrockwell",
+            "repo": "trmnl-postmark-challenge",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PS2 title screens",
+          "description": "Display random PS2 title screens rknightuk Plugin Gaming / Retro Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1032388707,
+            "language": "Liquid",
+            "last_commit": "2026-01-12T11:28:54Z",
+            "owner": "rknightuk",
+            "repo": "trmnl-ps2-title-screens",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remember The Milk",
+          "description": "sejtenik Plugin Productivity / Task Management Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 905794699,
+            "language": "Liquid",
+            "last_commit": "2025-05-18T08:01:36Z",
+            "owner": "sejtenik",
+            "repo": "trmnl-rtm-plugin",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SV Eevee Prices (Pokemon)",
+          "description": "Displays Eeveelution prices from Terastal Festival ex & Prismatic Evolutions lannonbr Plugin Gaming / Pokemon Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 945608947,
+            "language": "Liquid",
+            "last_commit": "2025-03-09T20:11:53Z",
+            "owner": "lannonbr",
+            "repo": "trmnl-sv-eevee-prices",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Salah Prayer Times",
+          "description": "abshirahmed Plugin Religion / Education Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 965653013,
+            "language": "TypeScript",
+            "last_commit": "2025-06-19T07:08:39Z",
+            "owner": "abshirahmed",
+            "repo": "trmnl-salah-times",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAT GUS Tracker",
+          "description": "Easily track SAT GUS loesak Plugin Education / Productivity Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1018327942,
+            "language": "Liquid",
+            "last_commit": "2026-08-24T14:02:36Z",
+            "owner": "loesak",
+            "repo": "trmnl_satgus",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seatgeek upcoming events",
+          "description": "Seatgeek upcoming events stephenyeargin Plugin Entertainment / Events Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1021137436,
+            "language": "Liquid",
+            "last_commit": "2026-08-01T15:53:14Z",
+            "owner": "stephenyeargin",
+            "repo": "trmnl-seatgeek",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shipping Tracker",
+          "description": "Ship tracker using VesselFinder API OptimumMeans Plugin Transportation Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 905908954,
+            "language": "Python",
+            "last_commit": "2024-12-30T22:05:42Z",
+            "owner": "OptimumMeans",
+            "repo": "TRMNL-Ship-Tracker",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sleeper Standing",
+          "description": "TRMNL Hackaton winner, see your weekly matchups and vital stats about your competitor bnussbau Plugin Sports / Fantasy Football Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1040372144,
+            "language": "Liquid",
+            "last_commit": "2025-10-06T11:31:15Z",
+            "owner": "bnussbau",
+            "repo": "trmnl-sleeper-standings",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Star Wars newsfeed",
+          "description": "Star Wars news about Comic & Books mc-cari Plugin Entertainment / News Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1026982328,
+            "language": "Liquid",
+            "last_commit": "2025-10-18T01:32:37Z",
+            "owner": "mc-cari",
+            "repo": "trmnl-starwars-book-feed",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Steam deals",
+          "description": "Displays top rated Steam deals subtype-space Plugin Gaming / Deals Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 934583215,
+            "language": "Liquid",
+            "last_commit": "2025-11-21T05:48:47Z",
+            "owner": "subtype-space",
+            "repo": "trmnl-steam-deals",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Steam sales",
+          "description": "Snatch a Steam sale andrzejskowron Plugin Gaming / Sales Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1039875976,
+            "language": "Blade",
+            "last_commit": "2025-09-25T09:14:49Z",
+            "owner": "andrzejskowron",
+            "repo": "trmnl-steamsales",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stock price",
+          "description": "Stock price usetrmnl Plugin Finance / Markets Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 825483567,
+            "language": "HTML",
+            "last_commit": "2026-08-23T23:15:12Z",
+            "owner": "usetrmnl",
+            "repo": "plugins",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strava goals",
+          "description": "Strava goals vinayak-mehta Plugin Sports / Fitness Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 902117793,
+            "language": "Python",
+            "last_commit": "2024-12-22T09:52:24Z",
+            "owner": "vinayak-mehta",
+            "repo": "trmnl-strava-goals",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Surf (surfline) display",
+          "description": "real-time surf and tide data display pcifaldi Plugin Sports / Weather Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 884602951,
+            "language": "Python",
+            "last_commit": "2024-11-11T02:21:05Z",
+            "owner": "pcifaldi",
+            "repo": "surf_api",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swedish Weather Service",
+          "description": "Swedish weather service frjo Plugin Weather Europe",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 941265067,
+            "language": "Liquid",
+            "last_commit": "2026-03-25T18:54:13Z",
+            "owner": "frjo",
+            "repo": "usetrmnl-plugins",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TRMNL Quotes",
+          "description": "Inspirational Quotes michaelgilch Plugin Inspiration / Fun Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 890270909,
+            "language": "Python",
+            "last_commit": "2026-06-10T21:42:46Z",
+            "owner": "michaelgilch",
+            "repo": "trmnl-quotes",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TRMNL Tides",
+          "description": "Generate local tides screen on your TRMNL UpDryTwist Plugin Weather / Science Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 908431390,
+            "language": "Python",
+            "last_commit": "2025-12-25T17:28:28Z",
+            "owner": "UpDryTwist",
+            "repo": "trmnl-tides",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TV Guide KT.com",
+          "description": "TV Guide Plugin - KT Schedules JJGrootveld Plugin Entertainment / TV Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 993698284,
+            "language": "Python",
+            "last_commit": "2025-12-07T08:41:45Z",
+            "owner": "JJGrootveld",
+            "repo": "trmnl-kr-tvguide",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telegram Image Forwarder",
+          "description": "forward images from Telegram directly to a TRMNL yazdipour Plugin Communication / Social Global",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 1006651280,
+            "language": "JavaScript",
+            "last_commit": "2025-09-27T23:02:07Z",
+            "owner": "yazdipour",
+            "repo": "trmnl-telegram-bot",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tempest Weather Station",
+          "description": "Tempest Weather station usetrmnl Plugin Weather Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 825483567,
+            "language": "HTML",
+            "last_commit": "2026-08-23T23:15:12Z",
+            "owner": "usetrmnl",
+            "repo": "plugins",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Teslamate Reporter",
+          "description": "Display your Tesla statistics on your TRMNL eden881 Plugin Automotive / Tech Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 969331100,
+            "language": "Python",
+            "last_commit": "2025-04-29T12:06:33Z",
+            "owner": "eden881",
+            "repo": "trmnl-teslamate-reporter",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "This day",
+          "description": "On This Day in history frethop Plugin Education / History Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 891079055,
+            "language": "Python",
+            "last_commit": "2025-01-17T15:21:37Z",
+            "owner": "frethop",
+            "repo": "TRMNL-thisday",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tidbyt sync",
+          "description": "Synchronize your Tidbyt data jvivona Plugin Tech / IoT Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 679254881,
+            "language": null,
+            "last_commit": "2026-08-24T14:34:04Z",
+            "owner": "jvivona",
+            "repo": "tidbyt-data",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Todoist Sync",
+          "description": "Synchronize your Todoist tasks Nynir Plugin Productivity / Task Management Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 882851300,
+            "language": "Jinja",
+            "last_commit": "2024-11-06T21:45:05Z",
+            "owner": "Nynir",
+            "repo": "trmnl-todoist",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transport for London status",
+          "description": "Transport for London status stevekennedyuk Plugin Transportation London, UK",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 924218945,
+            "language": "Liquid",
+            "last_commit": "2026-03-12T12:30:44Z",
+            "owner": "stevekennedyuk",
+            "repo": "trmnl-tfl-status",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uptime robot (websites)",
+          "description": "UptimeRobot for TRMNL stephenyeargin Plugin Tech / Monitoring Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1003970652,
+            "language": "Liquid",
+            "last_commit": "2026-08-01T15:53:30Z",
+            "owner": "stephenyeargin",
+            "repo": "trmnl-uptimerobot",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Valorant Tracker",
+          "description": "Track your Valorant game stats MarkHopper24 Plugin Gaming / Esports Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 892962641,
+            "language": "HTML",
+            "last_commit": "2026-05-21T05:44:05Z",
+            "owner": "MarkHopper24",
+            "repo": "Valorant-Tools",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vienna Metro Departures",
+          "description": "Vienna Metro (Wiener Linien) Departures bnussbau Plugin Transportation Vienna, Austria",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1003466291,
+            "language": "Liquid",
+            "last_commit": "2026-06-24T21:48:07Z",
+            "owner": "bnussbau",
+            "repo": "trmnl-vienna-metro-departures",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Washington Post frontpage",
+          "description": "Daily Washington Post frontpage thamarnan Plugin News / Media USA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 910969061,
+            "language": "HTML",
+            "last_commit": "2025-05-08T21:05:07Z",
+            "owner": "thamarnan",
+            "repo": "TRMNL-NYT",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weekly goal tracker / Habit tracker",
+          "description": "Weekly goal tracker azjgard Plugin Productivity / Goals Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 911500353,
+            "language": "TypeScript",
+            "last_commit": "2025-01-03T08:58:55Z",
+            "owner": "azjgard",
+            "repo": "trmnl-weekly-goal-tracker",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wego transit",
+          "description": "WeGo Public Transit Next Trip transitnownash Plugin Transportation Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1001798014,
+            "language": "Liquid",
+            "last_commit": "2026-08-01T16:45:02Z",
+            "owner": "transitnownash",
+            "repo": "trmnl-wego-next-trip",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Who's that Pokemon",
+          "description": "Displays a random Pokémon every day sriniketh Plugin Gaming / Fun Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 945268322,
+            "language": "Liquid",
+            "last_commit": "2026-08-24T13:00:00Z",
+            "owner": "sriniketh",
+            "repo": "trmnl-plugin-whos-that-pokemon",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whoop",
+          "description": "Whoop health recovery dashboard sapochat Plugin Health / Fitness Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 968414709,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T13:40:34Z",
+            "owner": "sapochat",
+            "repo": "whoop-trmnl",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Winnie the Pooh quote",
+          "description": "A random quote by Winnie or one of his friends jvdmeij Plugin Fun / Quotes Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 940239026,
+            "language": "Liquid",
+            "last_commit": "2026-03-16T07:45:25Z",
+            "owner": "jvdmeij",
+            "repo": "trmnl-winnie-the-pooh",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wisdom Quotes",
+          "description": "Display a daily quote from Merlin Mann's \"The Wisdom Project\" VisualYeti Plugin Inspiration / Fun Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1006832927,
+            "language": "TypeScript",
+            "last_commit": "2026-02-10T14:05:48Z",
+            "owner": "VisualYeti",
+            "repo": "wisdom_trmnl",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Woocommerce",
+          "description": "Fetches store data from WooCommerce API and displays yannischuller Plugin E-commerce / Shopping Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 898616454,
+            "language": "Python",
+            "last_commit": "2024-12-04T18:02:59Z",
+            "owner": "yannicschuller",
+            "repo": "trmnl-woocommerce",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Word Clock",
+          "description": "The Word Clock tells in simple words what the time is jvdmeij Plugin Fun / Time Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 940238226,
+            "language": "Liquid",
+            "last_commit": "2026-03-08T18:50:04Z",
+            "owner": "jvdmeij",
+            "repo": "trmnl-word-clock",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Word clock",
+          "description": "Word clock delhoume Plugin Fun / Time Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 933770872,
+            "language": "HTML",
+            "last_commit": "2025-10-01T06:34:54Z",
+            "owner": "delhoume",
+            "repo": "trmnl_wordclock",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Words of the Day",
+          "description": "retrieves the Word of the Day from various online dictionaries sejtenik Plugin Education / Language Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 921272898,
+            "language": "Ruby",
+            "last_commit": "2026-04-25T13:16:11Z",
+            "owner": "sejtenik",
+            "repo": "trmnl-words-of-the-day-plugin",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Year in Progress",
+          "description": "Shows the progress of the year (dots or bar) monsieurm Plugin Productivity / Goals Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 946638978,
+            "language": "Liquid",
+            "last_commit": "2026-07-06T17:28:26Z",
+            "owner": "monsieurm",
+            "repo": "trmnl-yearinprogress",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Your Life in Weeks",
+          "description": "See the amount of weeks you have lived, and will live jvdmeij Plugin Fun / Reflection Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 940238440,
+            "language": "Liquid",
+            "last_commit": "2026-03-08T18:46:30Z",
+            "owner": "jvdmeij",
+            "repo": "trmnl-your-life-in-weeks",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "🔌 Plugins - General"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Beszel Monitor",
+          "description": "Beszel server monitoring yazdipour Beszel Homelab",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1065988380,
+            "language": "Liquid",
+            "last_commit": "2025-10-10T10:55:49Z",
+            "owner": "yazdipour",
+            "repo": "trmnl-beszel",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker Container",
+          "description": "Monitor Docker containers rish2jain Homelab",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1071128073,
+            "language": "Python",
+            "last_commit": "2025-10-07T02:03:40Z",
+            "owner": "rish2jain",
+            "repo": "Docker-TRMNL-Plugin",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grafana Dashboards",
+          "description": "Render Grafana dashboards (Flask) DefCon-007 Homelab",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1012132586,
+            "language": "Python",
+            "last_commit": "2025-10-09T23:57:57Z",
+            "owner": "DefCon-007",
+            "repo": "grafana-trmnl-plugin",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kuma Uptime",
+          "description": "Monitor Uptime Kuma bnussbau Uptime Kuma Homelab",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1067408947,
+            "language": "Liquid",
+            "last_commit": "2026-07-21T10:10:42Z",
+            "owner": "bnussbau",
+            "repo": "trmnl-uptimekuma",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pi-Hole stats",
+          "description": "Pi-hole statistics JBertaux Pi-Hole Homelab",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 981714754,
+            "language": "HTML",
+            "last_commit": "2026-07-07T18:23:15Z",
+            "owner": "JBertaux",
+            "repo": "pi-trmnl",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pixelfed",
+          "description": "Displays pixelfed images stephenyeargin Pixelfed Homelab",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1007467632,
+            "language": "Liquid",
+            "last_commit": "2026-08-01T15:53:06Z",
+            "owner": "stephenyeargin",
+            "repo": "trmnl-pixelfed",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proxmox Backups",
+          "description": "View results of recent backups (vzdumps) from your Proxmox VE nodes MartinBelko Homelab",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1065332344,
+            "language": "Liquid",
+            "last_commit": "2026-07-03T22:31:44Z",
+            "owner": "MartinBelko",
+            "repo": "TRMNL-Plugin-Proxmox-Backups",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tailscale",
+          "description": "Tailscale dashboard stephenyeargin Homelab",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1010747693,
+            "language": "Liquid",
+            "last_commit": "2026-08-01T15:53:24Z",
+            "owner": "stephenyeargin",
+            "repo": "trmnl-tailscale",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tautulli Dashboard",
+          "description": "Tautulli Dashboard (Plex server user metrics) hosfordryan Tautulli / Plex Homelab",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 908836661,
+            "language": "Python",
+            "last_commit": "2025-01-06T03:46:04Z",
+            "owner": "hosfordryan",
+            "repo": "trmnl-tautulli-dash",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unifi Site Manager",
+          "description": "Unifi site overview stephenyeargin Unifi Homelab",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1006784451,
+            "language": "Liquid",
+            "last_commit": "2026-08-10T03:30:03Z",
+            "owner": "stephenyeargin",
+            "repo": "trmnl-unifi-site-manager",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "👨‍💻 Plugins - Homelab (for IT tech enthusiasts)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alto National Water Prediction Service Gauges",
+          "description": "National Water Prediction Service gauges stephenyeargin Plugin Environment USA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1005874178,
+            "language": "Liquid",
+            "last_commit": "2026-08-01T15:53:15Z",
+            "owner": "stephenyeargin",
+            "repo": "trmnl-nwps-gauges",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ambient Weather display",
+          "description": "AmbientWeather.net weather station display evandhoffman Plugin Weather Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 933871987,
+            "language": "Python",
+            "last_commit": "2026-03-13T22:05:49Z",
+            "owner": "evandhoffman",
+            "repo": "trmnl-pws",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bring!",
+          "description": "Bring! shopping list display yshrdbrn Plugin Smart Home Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 930701215,
+            "language": "Python",
+            "last_commit": "2025-02-16T04:06:02Z",
+            "owner": "yshrdbrn",
+            "repo": "trmnl-bring-plugin",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Buienradar",
+          "description": "Buienradar weather display Akisame-AI Plugin Weather Netherlands, Belgium",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 936174411,
+            "language": "HTML",
+            "last_commit": "2025-12-12T18:41:28Z",
+            "owner": "Akisame-AI",
+            "repo": "TRMNL_buienradar",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dcache",
+          "description": "Visualize selected Home Assistant entities ramdacxp Plugin Smart Home Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 827469275,
+            "language": "CSS",
+            "last_commit": "2024-07-18T21:23:05Z",
+            "owner": "ramdacxp",
+            "repo": "dcache",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Garbage Collector calendar",
+          "description": "Worldwide garbage collection calendar hrdkbhatnagar Plugin Utilities Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1008981514,
+            "language": "Liquid",
+            "last_commit": "2025-06-26T11:56:20Z",
+            "owner": "hrdkbhatnagar",
+            "repo": "trml-garbage-calendar",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HACS Sensor push",
+          "description": "Home Assistant HACS component pushing data to TRMNL gitstua Add-on Smart Home Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 931202978,
+            "language": "Python",
+            "last_commit": "2025-03-23T11:18:43Z",
+            "owner": "gitstua",
+            "repo": "trmnl-sensor-push",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Home Assistant Addon",
+          "description": "Home Assistant addon for TRMNL ohAnd Add-on Smart Home Global",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 938314275,
+            "language": "Shell",
+            "last_commit": "2025-04-04T04:58:42Z",
+            "owner": "ohAnd",
+            "repo": "trmnlServer_ha_addon",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Home Assistant",
+          "description": "Send Home Assistant data via webhook ididit99 Plugin Smart Home Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 926694918,
+            "language": "Python",
+            "last_commit": "2026-03-07T04:46:14Z",
+            "owner": "Jobey99",
+            "repo": "useTRMNL-Home-Assistant",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Home Assistant",
+          "description": "Home Assistant data integration for TRMNL fisherevans Plugin Smart Home Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1032762140,
+            "language": "Go",
+            "last_commit": "2025-08-06T21:09:25Z",
+            "owner": "fisherevans",
+            "repo": "ha2trmnl",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Home Assistant Entities",
+          "description": "Display Home Assistant entities with custom layouts pwojtaszko Plugin Smart Home Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1069405151,
+            "language": "Python",
+            "last_commit": "2025-11-30T10:47:55Z",
+            "owner": "pwojtaszko",
+            "repo": "trmnl-home-assistant-plugin",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nashville Pollen & Air Quality",
+          "description": "Nashville pollen & air quality display stephenyeargin Plugin Health USA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1001797115,
+            "language": "Liquid",
+            "last_commit": "2026-08-01T16:43:25Z",
+            "owner": "stephenyeargin",
+            "repo": "trmnl-nashville-pollen-aqi",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Octopus Energy usage",
+          "description": "Octopus Energy usage dashboard (UK) marksankey Plugin Energy UK",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1045191624,
+            "language": "Python",
+            "last_commit": "2026-02-15T11:39:56Z",
+            "owner": "marksankey",
+            "repo": "Energy_Usage",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open-Meteo Hourly Weather",
+          "description": "Hourly weather forecast from Open-Meteo andi4000 Plugin Weather Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1011360485,
+            "language": "Liquid",
+            "last_commit": "2026-02-17T16:45:18Z",
+            "owner": "andi4000",
+            "repo": "trmnl-open-meteo-weather-forecast",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pollen Forecast Europe",
+          "description": "Pollen forecast for Europe bnussbau Plugin Health Europe",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 980746304,
+            "language": "Liquid",
+            "last_commit": "2026-07-01T21:18:49Z",
+            "owner": "bnussbau",
+            "repo": "trmnl-pollen-forecast-eu",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tibber Norway",
+          "description": "Hourly electricity prices for Tibber Norway MartinBelko Plugin Energy Norway",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1064002810,
+            "language": "Liquid",
+            "last_commit": "2026-07-03T22:31:27Z",
+            "owner": "MartinBelko",
+            "repo": "TRMNL-Plugin-Tibber-Norway",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wasserspiegel",
+          "description": "Current water level display timgluz Plugin Environment Germany",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1023012920,
+            "language": "Go",
+            "last_commit": "2025-10-04T14:58:06Z",
+            "owner": "timgluz",
+            "repo": "wasserspiegel",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wttr.in display",
+          "description": "Weather display from wttr.in thepeopleseason Plugin Weather Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1046005807,
+            "language": "Liquid",
+            "last_commit": "2025-12-05T14:46:54Z",
+            "owner": "thepeopleseason",
+            "repo": "trmnl-plugins",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YoLink Temperature",
+          "description": "YoLink temperature sensor display erikbuild Plugin Smart Home USA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 999073784,
+            "language": "JavaScript",
+            "last_commit": "2025-06-11T03:17:06Z",
+            "owner": "erikbuild",
+            "repo": "trmnl-yolink-temperature",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zonneplan",
+          "description": "🇳🇱 Zonneplan dynamic energy pricing tracker LeipeLeon Plugin Energy Netherlands",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 992809989,
+            "language": "Ruby",
+            "last_commit": "2026-08-24T14:22:20Z",
+            "owner": "LeipeLeon",
+            "repo": "zonneplan",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "🏠 Plugins - Smart Home (Home Assistant, Energy)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Android Mirror",
+          "description": "Mirror TRMNL content to Android,originally developed by hossain-khan usetrmnl App Extra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 974297495,
+            "language": "Kotlin",
+            "last_commit": "2026-08-19T16:27:38Z",
+            "owner": "usetrmnl",
+            "repo": "trmnl-android",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BYOS Server (Laravel)",
+          "description": "Build Your Own Server using Laravel ghcpuman902 Server Extra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 942927441,
+            "language": "PHP",
+            "last_commit": "2026-08-24T06:43:04Z",
+            "owner": "usetrmnl",
+            "repo": "larapaper",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BYOS Server (Next.js)",
+          "description": "Build Your Own Server using Next.js ghcpuman902 Server Extra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 946785778,
+            "language": "TypeScript",
+            "last_commit": "2026-07-02T09:52:37Z",
+            "owner": "usetrmnl",
+            "repo": "byos_next",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BYOS Server (Ruby / Hanami)",
+          "description": "Build Your Own Server using Ruby usetrmnl Server Extra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 946998450,
+            "language": "Ruby",
+            "last_commit": "2026-08-24T14:29:19Z",
+            "owner": "usetrmnl",
+            "repo": "terminus",
+            "stars": 694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Build your own TRMNL",
+          "description": "Makeshift edition ruohki Server Extra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 933204041,
+            "language": null,
+            "last_commit": "2025-02-21T22:58:18Z",
+            "owner": "ruohki",
+            "repo": "makeshift-trmnl",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chrome extension",
+          "description": "Display images from TRMNL's API in your new Chrome tab usetrmnl App Extra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 944882058,
+            "language": "JavaScript",
+            "last_commit": "2026-08-18T12:06:01Z",
+            "owner": "usetrmnl",
+            "repo": "trmnl-chrome",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Convert Kindle to TRMNL",
+          "description": "Turn Kindle into TRMNL usetrmnl Hardware Hack Extra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 967019652,
+            "language": "Shell",
+            "last_commit": "2026-08-17T07:37:30Z",
+            "owner": "usetrmnl",
+            "repo": "trmnl-kindle",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Convert Kobo to TRMNL",
+          "description": "Turn Kobo into TRMNL usetrmnl Hardware Hack Extra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 974577114,
+            "language": "Shell",
+            "last_commit": "2026-03-02T10:54:24Z",
+            "owner": "usetrmnl",
+            "repo": "trmnl-kobo",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Convert Nook to TRMNL",
+          "description": "Turn Nook into TRMNL usetrmnl Hardware Hack Extra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1023812238,
+            "language": "Kotlin",
+            "last_commit": "2026-02-17T15:36:23Z",
+            "owner": "usetrmnl",
+            "repo": "trmnl-nook",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Convert WaveShare to TRMNL",
+          "description": "Turn WaveShare 7.5\" V2 into TRMNL tobias-theobald Hardware Hack Extra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 934311881,
+            "language": "TypeScript",
+            "last_commit": "2025-02-19T17:53:17Z",
+            "owner": "tobias-theobald",
+            "repo": "epd-node-trmnl",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kuroshiro",
+          "description": "Kuroshiro is an open-source BYOS (Bring Your Own Server) PhyberApex Server Extra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 993917617,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T18:05:27Z",
+            "owner": "PhyberApex",
+            "repo": "kuroshiro",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React based renderer",
+          "description": "A React-based renderer pascal-giguere Rendering Extra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 929531946,
+            "language": "TypeScript",
+            "last_commit": "2025-05-10T20:53:52Z",
+            "owner": "pascal-giguere",
+            "repo": "react-trmnl",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Server for dashboard",
+          "description": "Python based server for TRMNL dashboard donmccaughey Tool Extra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 944827022,
+            "language": "Python",
+            "last_commit": "2026-02-25T05:16:09Z",
+            "owner": "donmccaughey",
+            "repo": "trmnl_srv",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TRMNL 3D printable mounts",
+          "description": "3D printable mounts (fridge magnet, corner bracket) usetrmnl 3D Print Extra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 910900662,
+            "language": null,
+            "last_commit": "2026-07-05T20:56:01Z",
+            "owner": "usetrmnl",
+            "repo": "mounts",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TRMNL Buddy",
+          "description": "Monitor your TRMNL on the go with Android hossain-khan Tool Extra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1068337822,
+            "language": "Kotlin",
+            "last_commit": "2026-08-18T02:23:44Z",
+            "owner": "hossain-khan",
+            "repo": "trmnl-android-buddy",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TRMNL Local Web Server",
+          "description": "Python local webserver for TRMNL ohAnd Server Extra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 887481292,
+            "language": "Python",
+            "last_commit": "2026-01-01T16:24:47Z",
+            "owner": "ohAnd",
+            "repo": "trmnlServer",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TRMNL Preview",
+          "description": "Local development preview server (liquid templates) schrockwell Tool Extra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 912549253,
+            "language": "Ruby",
+            "last_commit": "2026-08-17T05:36:09Z",
+            "owner": "usetrmnl",
+            "repo": "trmnlp",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TRMNL Tricks",
+          "description": "Tips and tricks for TRMNL yunruse Docs Extra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 969957358,
+            "language": "JavaScript",
+            "last_commit": "2025-08-02T14:48:11Z",
+            "owner": "yunruse",
+            "repo": "trmnl-tricks",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "👾 Extra's"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T21:58:10.862Z",
+    "last_updated": "2026-08-24T14:37:24.314Z",
     "original_repository": "eindpunt/awesome-TRMNL",
     "original_repository_id": 910305304,
     "original_repository_sha": "c225a86563373d1548006a3c1fadc75369248822",
