@@ -57,7 +57,7 @@
             "archived": false,
             "id": 742912310,
             "language": "C",
-            "last_commit": "2026-08-21T22:34:47Z",
+            "last_commit": "2026-08-25T02:34:22Z",
             "owner": "usetrmnl",
             "repo": "trmnl-firmware",
             "stars": 1144
@@ -525,7 +525,7 @@
             "archived": false,
             "id": 901296873,
             "language": "Python",
-            "last_commit": "2026-08-24T21:10:40Z",
+            "last_commit": "2026-08-25T06:14:51Z",
             "owner": "AlixAbbasi",
             "repo": "TRMNL-Sec-Deadlines",
             "stars": 0
@@ -990,7 +990,7 @@
             "archived": false,
             "id": 908276242,
             "language": "PowerShell",
-            "last_commit": "2026-08-24T05:46:05Z",
+            "last_commit": "2026-08-25T05:40:04Z",
             "owner": "MarkHopper24",
             "repo": "Marvel-Character-of-the-Day",
             "stars": 6
@@ -1080,7 +1080,7 @@
             "archived": false,
             "id": 1011411823,
             "language": "Python",
-            "last_commit": "2026-08-24T21:00:49Z",
+            "last_commit": "2026-08-25T06:00:39Z",
             "owner": "dmlandin",
             "repo": "TRMNLmoneyRates",
             "stars": 0
@@ -1320,7 +1320,7 @@
             "archived": false,
             "id": 1018327942,
             "language": "Liquid",
-            "last_commit": "2026-08-24T21:59:56Z",
+            "last_commit": "2026-08-25T06:20:47Z",
             "owner": "loesak",
             "repo": "trmnl_satgus",
             "stars": 0
@@ -1590,7 +1590,7 @@
             "archived": false,
             "id": 679254881,
             "language": null,
-            "last_commit": "2026-08-24T22:01:26Z",
+            "last_commit": "2026-08-25T06:10:10Z",
             "owner": "jvivona",
             "repo": "tidbyt-data",
             "stars": 0
@@ -1890,7 +1890,7 @@
         {
           "node_type": "item",
           "title": "Docker Container",
-          "description": "Monitor Docker containers rish2jain Homelab",
+          "description": "Monitor Docker containers rish2jain  Homelab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1905,7 +1905,7 @@
         {
           "node_type": "item",
           "title": "Grafana Dashboards",
-          "description": "Render Grafana dashboards (Flask) DefCon-007 Homelab",
+          "description": "Render Grafana dashboards (Flask) DefCon-007  Homelab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1965,7 +1965,7 @@
         {
           "node_type": "item",
           "title": "Proxmox Backups",
-          "description": "View results of recent backups (vzdumps) from your Proxmox VE nodes MartinBelko Homelab",
+          "description": "View results of recent backups (vzdumps) from your Proxmox VE nodes MartinBelko  Homelab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1980,7 +1980,7 @@
         {
           "node_type": "item",
           "title": "Tailscale",
-          "description": "Tailscale dashboard stephenyeargin Homelab",
+          "description": "Tailscale dashboard stephenyeargin  Homelab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2322,7 +2322,7 @@
             "archived": false,
             "id": 992809989,
             "language": "Ruby",
-            "last_commit": "2026-08-24T21:14:52Z",
+            "last_commit": "2026-08-25T06:17:11Z",
             "owner": "LeipeLeon",
             "repo": "zonneplan",
             "stars": 1
@@ -2388,10 +2388,10 @@
             "archived": false,
             "id": 946998450,
             "language": "Ruby",
-            "last_commit": "2026-08-24T21:48:07Z",
+            "last_commit": "2026-08-24T23:00:07Z",
             "owner": "usetrmnl",
             "repo": "terminus",
-            "stars": 695
+            "stars": 696
           }
         },
         {
@@ -2436,7 +2436,7 @@
             "last_commit": "2026-08-17T07:37:30Z",
             "owner": "usetrmnl",
             "repo": "trmnl-kindle",
-            "stars": 394
+            "stars": 395
           }
         },
         {
@@ -2493,7 +2493,7 @@
             "archived": false,
             "id": 993917617,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T18:05:27Z",
+            "last_commit": "2026-08-25T01:03:36Z",
             "owner": "PhyberApex",
             "repo": "kuroshiro",
             "stars": 10
@@ -2609,7 +2609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:01:36.220Z",
+    "last_updated": "2026-08-25T06:28:03.735Z",
     "original_repository": "eindpunt/awesome-TRMNL",
     "original_repository_id": 910305304,
     "original_repository_sha": "c225a86563373d1548006a3c1fadc75369248822",
