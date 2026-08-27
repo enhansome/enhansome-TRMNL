@@ -57,7 +57,7 @@
             "archived": false,
             "id": 742912310,
             "language": "C",
-            "last_commit": "2026-08-27T00:20:01Z",
+            "last_commit": "2026-08-27T10:50:45Z",
             "owner": "usetrmnl",
             "repo": "trmnl-firmware",
             "stars": 1147
@@ -525,7 +525,7 @@
             "archived": false,
             "id": 901296873,
             "language": "Python",
-            "last_commit": "2026-08-26T22:03:35Z",
+            "last_commit": "2026-08-27T09:16:31Z",
             "owner": "AlixAbbasi",
             "repo": "TRMNL-Sec-Deadlines",
             "stars": 0
@@ -1080,7 +1080,7 @@
             "archived": false,
             "id": 1011411823,
             "language": "Python",
-            "last_commit": "2026-08-27T01:00:22Z",
+            "last_commit": "2026-08-27T12:00:29Z",
             "owner": "dmlandin",
             "repo": "TRMNLmoneyRates",
             "stars": 0
@@ -1320,7 +1320,7 @@
             "archived": false,
             "id": 1018327942,
             "language": "Liquid",
-            "last_commit": "2026-08-26T22:08:46Z",
+            "last_commit": "2026-08-27T07:10:53Z",
             "owner": "loesak",
             "repo": "trmnl_satgus",
             "stars": 0
@@ -1590,7 +1590,7 @@
             "archived": false,
             "id": 679254881,
             "language": null,
-            "last_commit": "2026-08-27T00:40:05Z",
+            "last_commit": "2026-08-27T12:10:10Z",
             "owner": "jvivona",
             "repo": "tidbyt-data",
             "stars": 0
@@ -2322,7 +2322,7 @@
             "archived": false,
             "id": 992809989,
             "language": "Ruby",
-            "last_commit": "2026-08-27T00:17:12Z",
+            "last_commit": "2026-08-27T11:35:03Z",
             "owner": "LeipeLeon",
             "repo": "zonneplan",
             "stars": 1
@@ -2436,7 +2436,7 @@
             "last_commit": "2026-08-17T07:37:30Z",
             "owner": "usetrmnl",
             "repo": "trmnl-kindle",
-            "stars": 397
+            "stars": 398
           }
         },
         {
@@ -2451,7 +2451,7 @@
             "last_commit": "2026-03-02T10:54:24Z",
             "owner": "usetrmnl",
             "repo": "trmnl-kobo",
-            "stars": 111
+            "stars": 112
           }
         },
         {
@@ -2493,7 +2493,7 @@
             "archived": false,
             "id": 993917617,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T01:04:45Z",
+            "last_commit": "2026-08-27T08:34:54Z",
             "owner": "PhyberApex",
             "repo": "kuroshiro",
             "stars": 10
@@ -2609,9 +2609,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T01:05:01.597Z",
-    "original_repository": "eindpunt/awesome-TRMNL",
-    "original_repository_id": 910305304,
+    "last_updated": "2026-08-27T12:12:30.619Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 910305304,
+      "language": null,
+      "last_commit": "2026-01-30T21:44:57Z",
+      "owner": "eindpunt",
+      "repo": "awesome-TRMNL",
+      "stars": 170
+    },
     "original_repository_sha": "c225a86563373d1548006a3c1fadc75369248822",
     "enhanced_repository": "enhansome/enhansome-TRMNL",
     "enhanced_repository_description": null,
