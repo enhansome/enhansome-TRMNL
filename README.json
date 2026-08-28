@@ -16,7 +16,8 @@
             "owner": "covercash2",
             "repo": "trmnl_rs",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "jesserockz",
             "repo": "esphome-trmnl",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "lanrat",
             "repo": "homeplate",
             "stars": 310
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 742912310,
             "language": "C",
-            "last_commit": "2026-08-27T10:50:45Z",
+            "last_commit": "2026-08-28T01:21:09Z",
             "owner": "usetrmnl",
             "repo": "trmnl-firmware",
-            "stars": 1147
-          }
+            "stars": 1148
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "JayJay1989",
             "repo": "firmware",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         }
       ],
       "title": "⚡Firmware & Firmware flashing"
@@ -97,7 +102,8 @@
             "owner": "VanBelleRik",
             "repo": "azure-devops-pull-requests-trmnl",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "jackmawer",
             "repo": "virtual-trmnl",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "jcorbalanm",
             "repo": "trmnl-github-workflows",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "bnussbau",
             "repo": "laravel-trmnl",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "medo64",
             "repo": "LocalPaper",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "saysharastuff",
             "repo": "openrouter-tracker",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "gitstua",
             "repo": "trmnl-plugin-dev",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "sdjmchattie",
             "repo": "trmnl-plugin-dev-kit",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "kraynel",
             "repo": "trmnl-sentry",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         }
       ],
       "title": "🖱️ Development"
@@ -238,7 +252,8 @@
             "owner": "schrockwell",
             "repo": "trmnl-hello",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "OptimumMeans",
             "repo": "TRMNL-Boilerplate",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         }
       ],
       "title": "🔨 Development - Boilerplates"
@@ -274,7 +290,8 @@
             "owner": "usetrmnl",
             "repo": "plugins",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "stephenyeargin",
             "repo": "trmnl-adafruit-io",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "SnarfulSolutionsGroup",
             "repo": "TRMNL-Plugins",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "Saious119",
             "repo": "trmnl-anime-of-the-day",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "ItsJustThomas",
             "repo": "trmnl-anki",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "zegl",
             "repo": "trmnl-apple-photos",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "sdjmchattie",
             "repo": "trmnl-apple-reminders",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "kevdog114",
             "repo": "trmnl_stlcards",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "danmunoz",
             "repo": "trmnl-bvg-transit",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "tyler-dot-earth",
             "repo": "trmnl-notblockclock",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "bnussbau",
             "repo": "trmnl-bookclub-planner",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "tquin",
             "repo": "trmnl-bouldering",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "philippheldt",
             "repo": "TRMNL_Bundesliga-Results",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "goodlibbin",
             "repo": "trmnl-calibre-template",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "OptimumMeans",
             "repo": "TRMNL-Chuck-Norris",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -499,7 +530,8 @@
             "owner": "jvdmeij",
             "repo": "trmnl-countdown",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -514,7 +546,8 @@
             "owner": "jvdmeij",
             "repo": "trmnl-crypto-fear-and-greed",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -525,11 +558,12 @@
             "archived": false,
             "id": 901296873,
             "language": "Python",
-            "last_commit": "2026-08-27T09:16:31Z",
+            "last_commit": "2026-08-28T03:16:58Z",
             "owner": "AlixAbbasi",
             "repo": "TRMNL-Sec-Deadlines",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -544,7 +578,8 @@
             "owner": "SnarfulSolutionsGroup",
             "repo": "TRMNL-Plugins",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -559,7 +594,8 @@
             "owner": "OptimumMeans",
             "repo": "TRMNL-Digital-Archaeologist",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -574,7 +610,8 @@
             "owner": "OptimumMeans",
             "repo": "TRMNL-Discord-Bot",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -589,7 +626,8 @@
             "owner": "philippheldt",
             "repo": "TRMNL_Europa_League-Results",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -604,7 +642,8 @@
             "owner": "OptimumMeans",
             "repo": "TRMNL-FBI-Most-Wanted",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -619,7 +658,8 @@
             "owner": "rknightuk",
             "repo": "trmnl-fathom-analytics",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -634,7 +674,8 @@
             "owner": "btertoolen",
             "repo": "trmnl_focus_blocks_plugin",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -649,7 +690,8 @@
             "owner": "stedrow",
             "repo": "foxhole-trmnl-dashboard",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -664,7 +706,8 @@
             "owner": "OptimumMeans",
             "repo": "TRMNL-Fruit-Facts",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -679,7 +722,8 @@
             "owner": "usetrmnl",
             "repo": "plugins",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -694,7 +738,8 @@
             "owner": "nmartinovic",
             "repo": "trmnl-goals-manager",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -709,7 +754,8 @@
             "owner": "ellipticview",
             "repo": "trmnl-google-keep",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -724,7 +770,8 @@
             "owner": "vanbrabantf",
             "repo": "Ground-Control-TRMNL",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -739,7 +786,8 @@
             "owner": "thepeopleseason",
             "repo": "trmnl-plugins",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -754,7 +802,8 @@
             "owner": "sejtenik",
             "repo": "trmnl-habitify-plugin",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -769,7 +818,8 @@
             "owner": "usetrmnl",
             "repo": "plugins",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -784,7 +834,8 @@
             "owner": "jacobtender",
             "repo": "hardcover_trmnl",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -799,7 +850,8 @@
             "owner": "shyamvenugopalan",
             "repo": "trmnl-ical-calendar-server",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -814,7 +866,8 @@
             "owner": "jfsso",
             "repo": "trmnl-calendar",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -829,7 +882,8 @@
             "owner": "pipwilson",
             "repo": "trmnl-72-seasons",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -844,7 +898,8 @@
             "owner": "JJGrootveld",
             "repo": "trmnl-kr-tvguide",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -859,7 +914,8 @@
             "owner": "monsieurm",
             "repo": "trmnl-lastfm",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -874,7 +930,8 @@
             "owner": "rknightuk",
             "repo": "trmnl-lastfm",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -889,7 +946,8 @@
             "owner": "sejtenik",
             "repo": "trmnl-libra-cloud-plugin",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -904,7 +962,8 @@
             "owner": "vimwtf",
             "repo": "trmnl-lumon-wellness",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -919,7 +978,8 @@
             "owner": "RyanAngelo",
             "repo": "trmnl-mbta",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -934,7 +994,8 @@
             "owner": "ajchili",
             "repo": "meh-deals-trmnl-plugin",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -949,7 +1010,8 @@
             "owner": "jvdmeij",
             "repo": "trmnl-magic-8-ball",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -964,7 +1026,8 @@
             "owner": "youkergav",
             "repo": "TRMNL-Malware-Trending-Plugin",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -979,7 +1042,8 @@
             "owner": "rknightuk",
             "repo": "trmnl-mario-kart",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -990,11 +1054,12 @@
             "archived": false,
             "id": 908276242,
             "language": "PowerShell",
-            "last_commit": "2026-08-26T05:41:56Z",
+            "last_commit": "2026-08-27T16:21:39Z",
             "owner": "MarkHopper24",
             "repo": "Marvel-Character-of-the-Day",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1009,7 +1074,8 @@
             "owner": "Saious119",
             "repo": "trmnl-marvel-comic-tracker",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1024,7 +1090,8 @@
             "owner": "MarkHopper24",
             "repo": "Marvel-Rivals-TRMNL-Tracker",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1039,7 +1106,8 @@
             "owner": "stephenyeargin",
             "repo": "trmnl-matomo",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1054,7 +1122,8 @@
             "owner": "schrockwell",
             "repo": "trmnl-metar",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1069,7 +1138,8 @@
             "owner": "Bartlebyy",
             "repo": "trmnl-plugin-metrofresh-soups",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1080,11 +1150,12 @@
             "archived": false,
             "id": 1011411823,
             "language": "Python",
-            "last_commit": "2026-08-27T12:00:29Z",
+            "last_commit": "2026-08-28T05:00:24Z",
             "owner": "dmlandin",
             "repo": "TRMNLmoneyRates",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1099,7 +1170,8 @@
             "owner": "schrockwell",
             "repo": "trmnl-moonphase",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1114,7 +1186,8 @@
             "owner": "schrockwell",
             "repo": "trmnl-dsn",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1129,7 +1202,8 @@
             "owner": "cbdm",
             "repo": "trmnl-plugins",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1144,7 +1218,8 @@
             "owner": "stephenyeargin",
             "repo": "trmnl-nfd-incidents",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1159,7 +1234,8 @@
             "owner": "stephenyeargin",
             "repo": "trmnl-mnpd-dispatches",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1174,7 +1250,8 @@
             "owner": "gabe565",
             "repo": "trmnl-nightscout",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1189,7 +1266,8 @@
             "owner": "bnussbau",
             "repo": "trmnl-train-monitor",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1204,7 +1282,8 @@
             "owner": "Hacksore",
             "repo": "oghunt-trmnl",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1219,7 +1298,8 @@
             "owner": "frethop",
             "repo": "obsidian-TRMNL",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1234,7 +1314,8 @@
             "owner": "thepeopleseason",
             "repo": "trmnl-plugins",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1249,7 +1330,8 @@
             "owner": "schrockwell",
             "repo": "trmnl-postmark-challenge",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1264,7 +1346,8 @@
             "owner": "rknightuk",
             "repo": "trmnl-ps2-title-screens",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1279,7 +1362,8 @@
             "owner": "sejtenik",
             "repo": "trmnl-rtm-plugin",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1294,7 +1378,8 @@
             "owner": "lannonbr",
             "repo": "trmnl-sv-eevee-prices",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1309,7 +1394,8 @@
             "owner": "abshirahmed",
             "repo": "trmnl-salah-times",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1320,11 +1406,12 @@
             "archived": false,
             "id": 1018327942,
             "language": "Liquid",
-            "last_commit": "2026-08-27T07:10:53Z",
+            "last_commit": "2026-08-27T23:54:22Z",
             "owner": "loesak",
             "repo": "trmnl_satgus",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1339,7 +1426,8 @@
             "owner": "stephenyeargin",
             "repo": "trmnl-seatgeek",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1354,7 +1442,8 @@
             "owner": "OptimumMeans",
             "repo": "TRMNL-Ship-Tracker",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1369,7 +1458,8 @@
             "owner": "bnussbau",
             "repo": "trmnl-sleeper-standings",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1384,7 +1474,8 @@
             "owner": "mc-cari",
             "repo": "trmnl-starwars-book-feed",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1399,7 +1490,8 @@
             "owner": "subtype-space",
             "repo": "trmnl-steam-deals",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1414,7 +1506,8 @@
             "owner": "andrzejskowron",
             "repo": "trmnl-steamsales",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1429,7 +1522,8 @@
             "owner": "usetrmnl",
             "repo": "plugins",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1444,7 +1538,8 @@
             "owner": "vinayak-mehta",
             "repo": "trmnl-strava-goals",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1459,7 +1554,8 @@
             "owner": "pcifaldi",
             "repo": "surf_api",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1474,7 +1570,8 @@
             "owner": "frjo",
             "repo": "usetrmnl-plugins",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1489,7 +1586,8 @@
             "owner": "michaelgilch",
             "repo": "trmnl-quotes",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1504,7 +1602,8 @@
             "owner": "UpDryTwist",
             "repo": "trmnl-tides",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1519,7 +1618,8 @@
             "owner": "JJGrootveld",
             "repo": "trmnl-kr-tvguide",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1534,7 +1634,8 @@
             "owner": "yazdipour",
             "repo": "trmnl-telegram-bot",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1549,7 +1650,8 @@
             "owner": "usetrmnl",
             "repo": "plugins",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1564,7 +1666,8 @@
             "owner": "eden881",
             "repo": "trmnl-teslamate-reporter",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1579,7 +1682,8 @@
             "owner": "frethop",
             "repo": "TRMNL-thisday",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1590,11 +1694,12 @@
             "archived": false,
             "id": 679254881,
             "language": null,
-            "last_commit": "2026-08-27T12:10:10Z",
+            "last_commit": "2026-08-28T05:34:06Z",
             "owner": "jvivona",
             "repo": "tidbyt-data",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1609,7 +1714,8 @@
             "owner": "Nynir",
             "repo": "trmnl-todoist",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1624,7 +1730,8 @@
             "owner": "stevekennedyuk",
             "repo": "trmnl-tfl-status",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1639,7 +1746,8 @@
             "owner": "stephenyeargin",
             "repo": "trmnl-uptimerobot",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1654,7 +1762,8 @@
             "owner": "MarkHopper24",
             "repo": "Valorant-Tools",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1669,7 +1778,8 @@
             "owner": "bnussbau",
             "repo": "trmnl-vienna-metro-departures",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1684,7 +1794,8 @@
             "owner": "thamarnan",
             "repo": "TRMNL-NYT",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1699,7 +1810,8 @@
             "owner": "azjgard",
             "repo": "trmnl-weekly-goal-tracker",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1714,7 +1826,8 @@
             "owner": "transitnownash",
             "repo": "trmnl-wego-next-trip",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1725,11 +1838,12 @@
             "archived": false,
             "id": 945268322,
             "language": "Liquid",
-            "last_commit": "2026-08-26T13:02:26Z",
+            "last_commit": "2026-08-27T22:05:39Z",
             "owner": "sriniketh",
             "repo": "trmnl-plugin-whos-that-pokemon",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1744,7 +1858,8 @@
             "owner": "sapochat",
             "repo": "whoop-trmnl",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1759,7 +1874,8 @@
             "owner": "jvdmeij",
             "repo": "trmnl-winnie-the-pooh",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1774,7 +1890,8 @@
             "owner": "VisualYeti",
             "repo": "wisdom_trmnl",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1789,7 +1906,8 @@
             "owner": "yannicschuller",
             "repo": "trmnl-woocommerce",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1804,7 +1922,8 @@
             "owner": "jvdmeij",
             "repo": "trmnl-word-clock",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1819,7 +1938,8 @@
             "owner": "delhoume",
             "repo": "trmnl_wordclock",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1834,7 +1954,8 @@
             "owner": "sejtenik",
             "repo": "trmnl-words-of-the-day-plugin",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1849,7 +1970,8 @@
             "owner": "monsieurm",
             "repo": "trmnl-yearinprogress",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1864,7 +1986,8 @@
             "owner": "jvdmeij",
             "repo": "trmnl-your-life-in-weeks",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         }
       ],
       "title": "🔌 Plugins - General"
@@ -1885,7 +2008,8 @@
             "owner": "yazdipour",
             "repo": "trmnl-beszel",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1900,7 +2024,8 @@
             "owner": "rish2jain",
             "repo": "Docker-TRMNL-Plugin",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1915,7 +2040,8 @@
             "owner": "DefCon-007",
             "repo": "grafana-trmnl-plugin",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1930,7 +2056,8 @@
             "owner": "bnussbau",
             "repo": "trmnl-uptimekuma",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1945,7 +2072,8 @@
             "owner": "JBertaux",
             "repo": "pi-trmnl",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1960,7 +2088,8 @@
             "owner": "stephenyeargin",
             "repo": "trmnl-pixelfed",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1975,7 +2104,8 @@
             "owner": "MartinBelko",
             "repo": "TRMNL-Plugin-Proxmox-Backups",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -1990,7 +2120,8 @@
             "owner": "stephenyeargin",
             "repo": "trmnl-tailscale",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2005,7 +2136,8 @@
             "owner": "hosfordryan",
             "repo": "trmnl-tautulli-dash",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2020,7 +2152,8 @@
             "owner": "stephenyeargin",
             "repo": "trmnl-unifi-site-manager",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         }
       ],
       "title": "👨‍💻 Plugins - Homelab (for IT tech enthusiasts)"
@@ -2041,7 +2174,8 @@
             "owner": "stephenyeargin",
             "repo": "trmnl-nwps-gauges",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2056,7 +2190,8 @@
             "owner": "evandhoffman",
             "repo": "trmnl-pws",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2071,7 +2206,8 @@
             "owner": "yshrdbrn",
             "repo": "trmnl-bring-plugin",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2086,7 +2222,8 @@
             "owner": "Akisame-AI",
             "repo": "TRMNL_buienradar",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2101,7 +2238,8 @@
             "owner": "ramdacxp",
             "repo": "dcache",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2116,7 +2254,8 @@
             "owner": "hrdkbhatnagar",
             "repo": "trml-garbage-calendar",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2131,7 +2270,8 @@
             "owner": "gitstua",
             "repo": "trmnl-sensor-push",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2146,7 +2286,8 @@
             "owner": "ohAnd",
             "repo": "trmnlServer_ha_addon",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2161,7 +2302,8 @@
             "owner": "Jobey99",
             "repo": "useTRMNL-Home-Assistant",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2176,7 +2318,8 @@
             "owner": "fisherevans",
             "repo": "ha2trmnl",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2191,7 +2334,8 @@
             "owner": "pwojtaszko",
             "repo": "trmnl-home-assistant-plugin",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2206,7 +2350,8 @@
             "owner": "stephenyeargin",
             "repo": "trmnl-nashville-pollen-aqi",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2221,7 +2366,8 @@
             "owner": "marksankey",
             "repo": "Energy_Usage",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2236,7 +2382,8 @@
             "owner": "andi4000",
             "repo": "trmnl-open-meteo-weather-forecast",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2251,7 +2398,8 @@
             "owner": "bnussbau",
             "repo": "trmnl-pollen-forecast-eu",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2266,7 +2414,8 @@
             "owner": "MartinBelko",
             "repo": "TRMNL-Plugin-Tibber-Norway",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2281,7 +2430,8 @@
             "owner": "timgluz",
             "repo": "wasserspiegel",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2296,7 +2446,8 @@
             "owner": "thepeopleseason",
             "repo": "trmnl-plugins",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2311,7 +2462,8 @@
             "owner": "erikbuild",
             "repo": "trmnl-yolink-temperature",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2322,11 +2474,12 @@
             "archived": false,
             "id": 992809989,
             "language": "Ruby",
-            "last_commit": "2026-08-27T11:35:03Z",
+            "last_commit": "2026-08-28T03:21:37Z",
             "owner": "LeipeLeon",
             "repo": "zonneplan",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         }
       ],
       "title": "🏠 Plugins - Smart Home (Home Assistant, Energy)"
@@ -2347,7 +2500,8 @@
             "owner": "usetrmnl",
             "repo": "trmnl-android",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2362,7 +2516,8 @@
             "owner": "usetrmnl",
             "repo": "larapaper",
             "stars": 381
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2377,7 +2532,8 @@
             "owner": "usetrmnl",
             "repo": "byos_next",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2388,11 +2544,12 @@
             "archived": false,
             "id": 946998450,
             "language": "Ruby",
-            "last_commit": "2026-08-26T22:42:37Z",
+            "last_commit": "2026-08-27T13:58:40Z",
             "owner": "usetrmnl",
             "repo": "terminus",
             "stars": 698
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2407,7 +2564,8 @@
             "owner": "ruohki",
             "repo": "makeshift-trmnl",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2422,7 +2580,8 @@
             "owner": "usetrmnl",
             "repo": "trmnl-chrome",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2437,7 +2596,8 @@
             "owner": "usetrmnl",
             "repo": "trmnl-kindle",
             "stars": 398
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2452,7 +2612,8 @@
             "owner": "usetrmnl",
             "repo": "trmnl-kobo",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2467,7 +2628,8 @@
             "owner": "usetrmnl",
             "repo": "trmnl-nook",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2482,7 +2644,8 @@
             "owner": "tobias-theobald",
             "repo": "epd-node-trmnl",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2493,11 +2656,12 @@
             "archived": false,
             "id": 993917617,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T08:34:54Z",
+            "last_commit": "2026-08-28T02:56:17Z",
             "owner": "PhyberApex",
             "repo": "kuroshiro",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2512,7 +2676,8 @@
             "owner": "pascal-giguere",
             "repo": "react-trmnl",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2527,7 +2692,8 @@
             "owner": "donmccaughey",
             "repo": "trmnl_srv",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2542,7 +2708,8 @@
             "owner": "usetrmnl",
             "repo": "mounts",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2557,7 +2724,8 @@
             "owner": "hossain-khan",
             "repo": "trmnl-android-buddy",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2572,7 +2740,8 @@
             "owner": "ohAnd",
             "repo": "trmnlServer",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2587,7 +2756,8 @@
             "owner": "usetrmnl",
             "repo": "trmnlp",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         },
         {
           "node_type": "item",
@@ -2602,14 +2772,15 @@
             "owner": "yunruse",
             "repo": "trmnl-tricks",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T05:49:43.468Z"
         }
       ],
       "title": "👾 Extra's"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:12:30.619Z",
+    "last_updated": "2026-08-28T05:49:43.468Z",
     "original_repository_info": {
       "archived": false,
       "id": 910305304,
