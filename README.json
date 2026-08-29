@@ -60,10 +60,10 @@
             "archived": false,
             "id": 742912310,
             "language": "C",
-            "last_commit": "2026-08-28T01:21:09Z",
+            "last_commit": "2026-08-28T17:17:34Z",
             "owner": "usetrmnl",
             "repo": "trmnl-firmware",
-            "stars": 1148
+            "stars": 1149
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -289,7 +289,7 @@
             "last_commit": "2026-08-23T23:15:12Z",
             "owner": "usetrmnl",
             "repo": "plugins",
-            "stars": 233
+            "stars": 234
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -558,7 +558,7 @@
             "archived": false,
             "id": 901296873,
             "language": "Python",
-            "last_commit": "2026-08-28T03:16:58Z",
+            "last_commit": "2026-08-29T03:19:19Z",
             "owner": "AlixAbbasi",
             "repo": "TRMNL-Sec-Deadlines",
             "stars": 0
@@ -721,7 +721,7 @@
             "last_commit": "2026-08-23T23:15:12Z",
             "owner": "usetrmnl",
             "repo": "plugins",
-            "stars": 233
+            "stars": 234
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -817,7 +817,7 @@
             "last_commit": "2026-08-23T23:15:12Z",
             "owner": "usetrmnl",
             "repo": "plugins",
-            "stars": 233
+            "stars": 234
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1054,7 +1054,7 @@
             "archived": false,
             "id": 908276242,
             "language": "PowerShell",
-            "last_commit": "2026-08-27T16:21:39Z",
+            "last_commit": "2026-08-28T17:20:34Z",
             "owner": "MarkHopper24",
             "repo": "Marvel-Character-of-the-Day",
             "stars": 6
@@ -1150,7 +1150,7 @@
             "archived": false,
             "id": 1011411823,
             "language": "Python",
-            "last_commit": "2026-08-28T05:00:24Z",
+            "last_commit": "2026-08-29T03:00:17Z",
             "owner": "dmlandin",
             "repo": "TRMNLmoneyRates",
             "stars": 0
@@ -1406,7 +1406,7 @@
             "archived": false,
             "id": 1018327942,
             "language": "Liquid",
-            "last_commit": "2026-08-27T23:54:22Z",
+            "last_commit": "2026-08-29T03:17:43Z",
             "owner": "loesak",
             "repo": "trmnl_satgus",
             "stars": 0
@@ -1521,7 +1521,7 @@
             "last_commit": "2026-08-23T23:15:12Z",
             "owner": "usetrmnl",
             "repo": "plugins",
-            "stars": 233
+            "stars": 234
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1649,7 +1649,7 @@
             "last_commit": "2026-08-23T23:15:12Z",
             "owner": "usetrmnl",
             "repo": "plugins",
-            "stars": 233
+            "stars": 234
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1694,7 +1694,7 @@
             "archived": false,
             "id": 679254881,
             "language": null,
-            "last_commit": "2026-08-28T05:34:06Z",
+            "last_commit": "2026-08-29T02:48:05Z",
             "owner": "jvivona",
             "repo": "tidbyt-data",
             "stars": 0
@@ -1838,7 +1838,7 @@
             "archived": false,
             "id": 945268322,
             "language": "Liquid",
-            "last_commit": "2026-08-27T22:05:39Z",
+            "last_commit": "2026-08-28T22:03:49Z",
             "owner": "sriniketh",
             "repo": "trmnl-plugin-whos-that-pokemon",
             "stars": 5
@@ -2474,7 +2474,7 @@
             "archived": false,
             "id": 992809989,
             "language": "Ruby",
-            "last_commit": "2026-08-28T03:21:37Z",
+            "last_commit": "2026-08-29T03:22:31Z",
             "owner": "LeipeLeon",
             "repo": "zonneplan",
             "stars": 1
@@ -2512,7 +2512,7 @@
             "archived": false,
             "id": 942927441,
             "language": "PHP",
-            "last_commit": "2026-08-26T18:37:09Z",
+            "last_commit": "2026-08-28T19:15:23Z",
             "owner": "usetrmnl",
             "repo": "larapaper",
             "stars": 381
@@ -2656,10 +2656,10 @@
             "archived": false,
             "id": 993917617,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T02:56:17Z",
+            "last_commit": "2026-08-28T14:33:50Z",
             "owner": "PhyberApex",
             "repo": "kuroshiro",
-            "stars": 10
+            "stars": 11
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2755,7 +2755,7 @@
             "last_commit": "2026-08-17T05:36:09Z",
             "owner": "usetrmnl",
             "repo": "trmnlp",
-            "stars": 226
+            "stars": 227
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2780,7 +2780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:49:43.468Z",
+    "last_updated": "2026-08-29T03:23:05.704Z",
     "original_repository_info": {
       "archived": false,
       "id": 910305304,
