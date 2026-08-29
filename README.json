@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "messing around with this TRMNL and Rust and Nix",
+            "homepage": null,
             "id": 945230810,
             "language": "Rust",
+            "license": null,
             "last_commit": "2025-04-21T03:07:57Z",
+            "open_issues": 0,
             "owner": "covercash2",
             "repo": "trmnl_rs",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -26,12 +31,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ESPHome firmware for TRMNL ePaper Displays",
+            "homepage": "https://jesserockz.github.io/esphome-trmnl/",
             "id": 917449089,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-16T11:33:17Z",
+            "open_issues": 1,
             "owner": "jesserockz",
             "repo": "esphome-trmnl",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "esphome",
+              "smart-home",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -42,12 +56,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trmnl & Home Assistant E-Ink dashboard on the Inkplate displays",
+            "homepage": "https://lanrat.github.io/homeplate/",
             "id": 450953342,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T22:29:05Z",
+            "open_issues": 2,
             "owner": "lanrat",
             "repo": "homeplate",
-            "stars": 310
+            "stars": 310,
+            "topics": [
+              "eink",
+              "esp32",
+              "hass",
+              "home-assistant",
+              "inkplate",
+              "inkplate-10",
+              "inkplate-13spectra",
+              "inkplate-5",
+              "inkplate-6",
+              "inkplate-6-color",
+              "inkplate-6-plus",
+              "opendisplay",
+              "trmnl",
+              "trmnl-firmware"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -58,12 +92,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TRMNL ePaper device firmware",
+            "homepage": "https://docs.trmnl.com",
             "id": 742912310,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T17:17:34Z",
+            "open_issues": 93,
             "owner": "usetrmnl",
             "repo": "trmnl-firmware",
-            "stars": 1149
+            "stars": 1149,
+            "topics": [
+              "e-ink",
+              "iot-device",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -74,12 +117,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TRMNL device firmware",
+            "homepage": "https://docs.usetrmnl.com",
             "id": 929133050,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2025-03-02T10:03:49Z",
+            "open_issues": 0,
             "owner": "JayJay1989",
             "repo": "firmware",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         }
@@ -96,12 +144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TRMNL Plugin for Azure DevOps Pull Requests",
+            "homepage": null,
             "id": 1067955126,
             "language": "Liquid",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-02T08:59:51Z",
+            "open_issues": 0,
             "owner": "VanBelleRik",
             "repo": "azure-devops-pull-requests-trmnl",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -112,12 +165,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Small webpage to emulate a TRMNL display",
+            "homepage": null,
             "id": 933828160,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2025-07-20T15:32:28Z",
+            "open_issues": 0,
             "owner": "jackmawer",
             "repo": "virtual-trmnl",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -128,12 +186,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recipe for TMNRL that shows the last 100 Github Workflows summarized ",
+            "homepage": null,
             "id": 1070425533,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2025-10-13T17:29:22Z",
+            "open_issues": 0,
             "owner": "jcorbalanm",
             "repo": "trmnl-github-workflows",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -144,12 +210,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Develop private & public plugins with Laravel for the TRMNL e-ink display",
+            "homepage": null,
             "id": 916707756,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-06-22T16:08:46Z",
+            "open_issues": 0,
             "owner": "bnussbau",
             "repo": "laravel-trmnl",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "laravel",
+              "laravel-package",
+              "plugin-development",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -160,12 +236,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local composer for Trmnl device.",
+            "homepage": null,
             "id": 989472907,
             "language": "C#",
+            "license": null,
             "last_commit": "2025-11-21T15:12:31Z",
+            "open_issues": 0,
             "owner": "medo64",
             "repo": "LocalPaper",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -176,12 +257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Display your OpenRouter Token Usage on your TRMNL",
+            "homepage": null,
             "id": 1069872468,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2025-10-05T13:31:52Z",
+            "open_issues": 0,
             "owner": "saysharastuff",
             "repo": "openrouter-tracker",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -192,12 +278,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A local development environment for https://usetrmnl.com devices",
+            "homepage": null,
             "id": 925257592,
             "language": "Liquid",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-25T11:03:10Z",
+            "open_issues": 7,
             "owner": "gitstua",
             "repo": "trmnl-plugin-dev",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -208,12 +301,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin development kit for TRMNL devices",
+            "homepage": null,
             "id": 933277881,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2025-02-20T22:46:53Z",
+            "open_issues": 1,
             "owner": "sdjmchattie",
             "repo": "trmnl-plugin-dev-kit",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -224,12 +324,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1067727910,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2025-10-03T16:35:11Z",
+            "open_issues": 1,
             "owner": "kraynel",
             "repo": "trmnl-sentry",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         }
@@ -246,12 +351,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A starter template for TRMNL plugins utilizing the trmnl_preview dev server",
+            "homepage": null,
             "id": 912552964,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2025-01-07T17:23:43Z",
+            "open_issues": 0,
             "owner": "schrockwell",
             "repo": "trmnl-hello",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -262,12 +372,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A boilerplate template for building TRMNL e-ink display plugins. Features Flask webhooks, display optimization, and ready-to-use services for quick plugin development.",
+            "homepage": "https://usetrmnl.com/",
             "id": 909512041,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-30T01:56:41Z",
+            "open_issues": 0,
             "owner": "OptimumMeans",
             "repo": "TRMNL-Boilerplate",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "boilerplate",
+              "display",
+              "e-ink",
+              "iot",
+              "plugin-development",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         }
@@ -284,12 +406,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "e-ink dashboard plugin logic",
+            "homepage": "https://docs.trmnl.com",
             "id": 825483567,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-08-23T23:15:12Z",
+            "open_issues": 3,
             "owner": "usetrmnl",
             "repo": "plugins",
-            "stars": 234
+            "stars": 234,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -300,12 +429,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👩‍🏭 Adafruit IO for TRMNL",
+            "homepage": "https://usetrmnl.com/recipes/112643",
             "id": 1014519592,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2026-08-01T16:36:39Z",
+            "open_issues": 0,
             "owner": "stephenyeargin",
             "repo": "trmnl-adafruit-io",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "adafruit",
+              "adafruit-io",
+              "hacktoberfest",
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -316,12 +456,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugins for the TRMNL Device",
+            "homepage": null,
             "id": 878591390,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-25T18:26:28Z",
+            "open_issues": 4,
             "owner": "SnarfulSolutionsGroup",
             "repo": "TRMNL-Plugins",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -332,12 +477,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gives you a random anime of the day from Anilist",
+            "homepage": null,
             "id": 974611139,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-02T15:01:09Z",
+            "open_issues": 0,
             "owner": "Saious119",
             "repo": "trmnl-anime-of-the-day",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "anilist",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -348,12 +501,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Display Anki cards on TRMNL",
+            "homepage": null,
             "id": 1023296060,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2025-09-15T03:52:35Z",
+            "open_issues": 0,
             "owner": "ItsJustThomas",
             "repo": "trmnl-anki",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "anki",
+              "anki-addon",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -364,12 +526,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apple Photos plugin for TRMNL",
+            "homepage": "https://trmnl-apple-photos.westling.dev/",
             "id": 984342949,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-05T17:11:36Z",
+            "open_issues": 1,
             "owner": "zegl",
             "repo": "trmnl-apple-photos",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -380,12 +549,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A private plugin for the TRMNL device to display Apple Reminders",
+            "homepage": null,
             "id": 932302106,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-06-11T18:25:13Z",
+            "open_issues": 1,
             "owner": "sdjmchattie",
             "repo": "trmnl-apple-reminders",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -396,12 +572,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 987285051,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-04T23:56:04Z",
+            "open_issues": 0,
             "owner": "kevdog114",
             "repo": "trmnl_stlcards",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -412,12 +593,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a TRMNL plugin that monitors the status of Berlin's BVG Public transportation.",
+            "homepage": null,
             "id": 967655564,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2026-05-18T09:21:00Z",
+            "open_issues": 1,
             "owner": "danmunoz",
             "repo": "trmnl-bvg-transit",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -428,12 +616,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a \"block clock\" for the TRMNL e-ink display",
+            "homepage": null,
             "id": 918430109,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-01-17T23:16:53Z",
+            "open_issues": 0,
             "owner": "tyler-dot-earth",
             "repo": "trmnl-notblockclock",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -444,12 +637,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plan your reading for your next book club meeting with TRMNL",
+            "homepage": null,
             "id": 1027644342,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2025-10-06T11:33:44Z",
+            "open_issues": 0,
             "owner": "bnussbau",
             "repo": "trmnl-bookclub-planner",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -460,12 +661,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A trmnl plugin to show how busy the local bouldering gym is.",
+            "homepage": null,
             "id": 997686569,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2026-04-24T17:05:56Z",
+            "open_issues": 4,
             "owner": "tquin",
             "repo": "trmnl-bouldering",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -476,12 +685,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Displays the current matchday with all games, dates, and results, as well as the latest Bundesliga table in a clean, responsive layout. Data is automatically fetched from the OpenLigaDB API.",
+            "homepage": null,
             "id": 1037441224,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-09-30T08:10:06Z",
+            "open_issues": 0,
             "owner": "philippheldt",
             "repo": "TRMNL_Bundesliga-Results",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -492,12 +706,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Display your Calibre-web library status on TRMNL e-ink devices. Shows latest books, ratings, tags, and library stats with beautiful e-ink optimized templates. Easy deployment to Render/Railway with JSON API for TRMNL's template system.",
+            "homepage": null,
             "id": 1009384624,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-01T22:07:20Z",
+            "open_issues": 1,
             "owner": "goodlibbin",
             "repo": "trmnl-calibre-template",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "calibre",
+              "calibre-web",
+              "e-ink",
+              "ebook",
+              "flask",
+              "library",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -508,12 +735,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 909524532,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-29T01:48:34Z",
+            "open_issues": 0,
             "owner": "OptimumMeans",
             "repo": "TRMNL-Chuck-Norris",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -524,12 +756,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 940237731,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2026-03-08T19:13:52Z",
+            "open_issues": 0,
             "owner": "jvdmeij",
             "repo": "trmnl-countdown",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -540,12 +777,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 940237969,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2026-03-08T18:48:12Z",
+            "open_issues": 0,
             "owner": "jvdmeij",
             "repo": "trmnl-crypto-fear-and-greed",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -556,12 +798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sec Deadlines to TRMNL E-Ink Display",
+            "homepage": null,
             "id": 901296873,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-29T03:19:19Z",
+            "open_issues": 0,
             "owner": "AlixAbbasi",
             "repo": "TRMNL-Sec-Deadlines",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -572,12 +819,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugins for the TRMNL Device",
+            "homepage": null,
             "id": 878591390,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-25T18:26:28Z",
+            "open_issues": 4,
             "owner": "SnarfulSolutionsGroup",
             "repo": "TRMNL-Plugins",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -588,12 +840,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 905040840,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-18T08:10:50Z",
+            "open_issues": 0,
             "owner": "OptimumMeans",
             "repo": "TRMNL-Digital-Archaeologist",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -604,12 +861,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official bot for the TRMNL community, providing quick access to documentation, updates, and resources directly in Discord.",
+            "homepage": "https://usetrmnl.com/",
             "id": 907245559,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-25T01:54:55Z",
+            "open_issues": 5,
             "owner": "OptimumMeans",
             "repo": "TRMNL-Discord-Bot",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -620,12 +882,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1066974135,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-09-30T08:20:55Z",
+            "open_issues": 0,
             "owner": "philippheldt",
             "repo": "TRMNL_Europa_League-Results",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -636,12 +903,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 909578853,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-09T00:52:51Z",
+            "open_issues": 0,
             "owner": "OptimumMeans",
             "repo": "TRMNL-FBI-Most-Wanted",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -652,12 +924,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fathom Analytics plugin for TRMNL",
+            "homepage": "https://usetrmnl.com/recipes/89064",
             "id": 999188618,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2025-06-12T09:22:58Z",
+            "open_issues": 0,
             "owner": "rknightuk",
             "repo": "trmnl-fathom-analytics",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -668,12 +948,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 964707464,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2025-04-11T21:09:07Z",
+            "open_issues": 0,
             "owner": "btertoolen",
             "repo": "trmnl_focus_blocks_plugin",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -684,12 +969,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TRMNL dashboard that displays foxhole map updates and recently captured zones, integrates with Terminus",
+            "homepage": null,
             "id": 1050115324,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-12-30T02:17:17Z",
+            "open_issues": 0,
             "owner": "stedrow",
             "repo": "foxhole-trmnl-dashboard",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -700,12 +990,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 909573363,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-29T06:02:04Z",
+            "open_issues": 0,
             "owner": "OptimumMeans",
             "repo": "TRMNL-Fruit-Facts",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -716,12 +1011,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "e-ink dashboard plugin logic",
+            "homepage": "https://docs.trmnl.com",
             "id": 825483567,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-08-23T23:15:12Z",
+            "open_issues": 3,
             "owner": "usetrmnl",
             "repo": "plugins",
-            "stars": 234
+            "stars": 234,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -732,12 +1034,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "trmnl-goals-manager",
+            "homepage": null,
             "id": 924180757,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-02-05T11:32:40Z",
+            "open_issues": 0,
             "owner": "nmartinovic",
             "repo": "trmnl-goals-manager",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -748,12 +1055,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tampermonkey script to push Google Keep list to TRMNL",
+            "homepage": null,
             "id": 925571851,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-03T06:06:56Z",
+            "open_issues": 0,
             "owner": "ellipticview",
             "repo": "trmnl-google-keep",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -764,12 +1076,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small API that get's data from the international space station",
+            "homepage": null,
             "id": 914544299,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-01-09T20:44:18Z",
+            "open_issues": 0,
             "owner": "vanbrabantf",
             "repo": "Ground-Control-TRMNL",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -780,12 +1097,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugins for TRMNL ",
+            "homepage": null,
             "id": 1046005807,
             "language": "Liquid",
+            "license": "AGPL-3.0",
             "last_commit": "2025-12-05T14:46:54Z",
+            "open_issues": 2,
             "owner": "thepeopleseason",
             "repo": "trmnl-plugins",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -796,12 +1118,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial TRMNL Habitify Private Plugin: Retrieves habit data from Habitify, calculates the current streak, and displays it on an e-ink screen.",
+            "homepage": null,
             "id": 909817609,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-03-23T11:31:43Z",
+            "open_issues": 0,
             "owner": "sejtenik",
             "repo": "trmnl-habitify-plugin",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -812,12 +1139,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "e-ink dashboard plugin logic",
+            "homepage": "https://docs.trmnl.com",
             "id": 825483567,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-08-23T23:15:12Z",
+            "open_issues": 3,
             "owner": "usetrmnl",
             "repo": "plugins",
-            "stars": 234
+            "stars": 234,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -828,12 +1162,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1024556976,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2026-04-30T22:39:35Z",
+            "open_issues": 0,
             "owner": "jacobtender",
             "repo": "hardcover_trmnl",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -844,12 +1183,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This project is a Flask-based web service that fetches events from an Apple public calendar iCal link, filters the events for a specified number of days, and returns the events in a JSON format. The JSON response is formatted to be consumed by TRMNL private plugin.",
+            "homepage": null,
             "id": 942775460,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-03-04T16:56:23Z",
+            "open_issues": 0,
             "owner": "shyamvenugopalan",
             "repo": "trmnl-ical-calendar-server",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -860,12 +1204,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 897158204,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-23T03:00:44Z",
+            "open_issues": 1,
             "owner": "jfsso",
             "repo": "trmnl-calendar",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -876,12 +1225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Displays the current season of the traditional 72 Japanese seasons on a TRMNL device",
+            "homepage": null,
             "id": 1007868045,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2025-12-31T17:17:55Z",
+            "open_issues": 0,
             "owner": "pipwilson",
             "repo": "trmnl-72-seasons",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -892,12 +1246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 993698284,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-07T08:41:45Z",
+            "open_issues": 0,
             "owner": "JJGrootveld",
             "repo": "trmnl-kr-tvguide",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -908,12 +1267,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get LastFM last track listened and other user infos on TRMNL device",
+            "homepage": null,
             "id": 945668141,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2026-07-21T23:34:55Z",
+            "open_issues": 0,
             "owner": "monsieurm",
             "repo": "trmnl-lastfm",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -924,12 +1290,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LastFM plugin for TRMNL",
+            "homepage": null,
             "id": 1003854651,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2025-06-17T19:12:59Z",
+            "open_issues": 0,
             "owner": "rknightuk",
             "repo": "trmnl-lastfm",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -940,12 +1314,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial TRMNL Libra Private Plugin – Fetches weight data from the Libra Weight Manager app and displays it on an e-ink screen as a chart with key statistics.",
+            "homepage": null,
             "id": 904289485,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-03-28T19:41:39Z",
+            "open_issues": 0,
             "owner": "sejtenik",
             "repo": "trmnl-libra-cloud-plugin",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -956,12 +1335,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TRMNL plugin to display facts about your Outie",
+            "homepage": "https://usetrmnl.com/recipes/102880",
             "id": 1007438794,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2025-08-05T02:20:52Z",
+            "open_issues": 0,
             "owner": "vimwtf",
             "repo": "trmnl-lumon-wellness",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -972,12 +1358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Schedule information for the MBTA for display on a TRMNL.",
+            "homepage": null,
             "id": 929097017,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-06T16:19:59Z",
+            "open_issues": 0,
             "owner": "RyanAngelo",
             "repo": "trmnl-mbta",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -988,12 +1379,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "trmnl plugin to display the daily deal(s) from meh.com.",
+            "homepage": null,
             "id": 930000619,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2025-02-09T23:40:51Z",
+            "open_issues": 0,
             "owner": "ajchili",
             "repo": "meh-deals-trmnl-plugin",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "meh",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1004,12 +1403,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 940238665,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2026-03-08T19:13:22Z",
+            "open_issues": 0,
             "owner": "jvdmeij",
             "repo": "trmnl-magic-8-ball",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1020,12 +1424,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1014125198,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-22T22:26:26Z",
+            "open_issues": 0,
             "owner": "youkergav",
             "repo": "TRMNL-Malware-Trending-Plugin",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1036,12 +1445,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TRMNL plugin to show random Mario Kart tracks",
+            "homepage": "https://usetrmnl.com/recipes/101176",
             "id": 1006262467,
             "language": "Shell",
+            "license": null,
             "last_commit": "2025-06-24T19:34:14Z",
+            "open_issues": 0,
             "owner": "rknightuk",
             "repo": "trmnl-mario-kart",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1052,12 +1469,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A self-updating PowerShell-based repository that provides information about a different Marvel Comics character every day.",
+            "homepage": null,
             "id": 908276242,
             "language": "PowerShell",
+            "license": null,
             "last_commit": "2026-08-28T17:20:34Z",
+            "open_issues": 0,
             "owner": "MarkHopper24",
             "repo": "Marvel-Character-of-the-Day",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1068,12 +1490,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Plugin for the TRMNL device that tracks Marvel Comic series",
+            "homepage": null,
             "id": 948842726,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-20T03:26:37Z",
+            "open_issues": 0,
             "owner": "Saious119",
             "repo": "trmnl-marvel-comic-tracker",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1084,12 +1513,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Track your Marvel Rival stats on your TRMNL device.",
+            "homepage": null,
             "id": 988041645,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2025-06-14T19:43:26Z",
+            "open_issues": 0,
             "owner": "MarkHopper24",
             "repo": "Marvel-Rivals-TRMNL-Tracker",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "marvel",
+              "marvel-rivals",
+              "marvel-rivals-api",
+              "powershell",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1100,12 +1540,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📊 Matomo Analytics for TRMNL",
+            "homepage": "https://usetrmnl.com/recipes/97234",
             "id": 1002458493,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2026-08-01T16:38:08Z",
+            "open_issues": 0,
             "owner": "stephenyeargin",
             "repo": "trmnl-matomo",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "hacktoberfest",
+              "matomo",
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1116,12 +1566,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TRMNL private plugin for weather METARs",
+            "homepage": null,
             "id": 912464687,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2026-06-29T14:16:59Z",
+            "open_issues": 0,
             "owner": "schrockwell",
             "repo": "trmnl-metar",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1132,12 +1587,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Express service to fetch MetroFresh soups from Menuat.",
+            "homepage": null,
             "id": 1001805082,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2025-06-18T13:55:41Z",
+            "open_issues": 0,
             "owner": "Bartlebyy",
             "repo": "trmnl-plugin-metrofresh-soups",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1148,12 +1608,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Making a plugin for TRMNL e-ink display with custom fields from St. Louis Federal Reserve FRED data",
+            "homepage": null,
             "id": 1011411823,
             "language": "Python",
-            "last_commit": "2026-08-29T03:00:17Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T04:00:31Z",
+            "open_issues": 1,
             "owner": "dmlandin",
             "repo": "TRMNLmoneyRates",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1164,12 +1629,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Moonphase plugin for TRMNL",
+            "homepage": null,
             "id": 914136534,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2025-01-09T02:36:47Z",
+            "open_issues": 0,
             "owner": "schrockwell",
             "repo": "trmnl-moonphase",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1180,12 +1650,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin for TRMNL to monitor Deep Space Network communications",
+            "homepage": null,
             "id": 909131754,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-02-14T18:17:50Z",
+            "open_issues": 0,
             "owner": "schrockwell",
             "repo": "trmnl-dsn",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1196,12 +1671,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 950726099,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2025-03-19T02:36:37Z",
+            "open_issues": 0,
             "owner": "cbdm",
             "repo": "trmnl-plugins",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1212,12 +1694,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚒 Nashville Fire Department Active Incidents for TRMNL",
+            "homepage": "https://usetrmnl.com/recipes/89850",
             "id": 1001782490,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2026-08-01T16:42:57Z",
+            "open_issues": 0,
             "owner": "stephenyeargin",
             "repo": "trmnl-nfd-incidents",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "hacktoberfest",
+              "nashville",
+              "public-safety",
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1228,12 +1721,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚓 Metro Nashville Police Dept. Active Dispatches for TRMNL",
+            "homepage": "https://usetrmnl.com/recipes/90541",
             "id": 1001794974,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2026-08-01T16:40:47Z",
+            "open_issues": 0,
             "owner": "stephenyeargin",
             "repo": "trmnl-mnpd-dispatches",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "hacktoberfest",
+              "nashville",
+              "public-safety",
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1244,12 +1748,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Render Nightscout data to a TRMNL device.",
+            "homepage": null,
             "id": 997782215,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-21T08:04:54Z",
+            "open_issues": 22,
             "owner": "gabe565",
             "repo": "trmnl-nightscout",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "blood-sugar",
+              "cgm-remote-monitor",
+              "dexcom",
+              "diabetes",
+              "freestyle-libre",
+              "nightscout",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1260,12 +1777,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Train Monitor for TRMNL Devices",
+            "homepage": null,
             "id": 918268814,
             "language": "PHP",
+            "license": null,
             "last_commit": "2026-07-05T22:19:16Z",
+            "open_issues": 0,
             "owner": "bnussbau",
             "repo": "trmnl-train-monitor",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "laravel",
+              "trmn-plugin",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1276,12 +1802,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a TRMNL plugin for oghunt",
+            "homepage": "https://oghunt.com",
             "id": 949420739,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-01-29T21:46:15Z",
+            "open_issues": 0,
             "owner": "Hacksore",
             "repo": "oghunt-trmnl",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "cloudflare",
+              "hono",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1292,12 +1827,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 924677245,
             "language": "TypeScript",
+            "license": "0BSD",
             "last_commit": "2025-02-04T13:34:27Z",
+            "open_issues": 1,
             "owner": "frethop",
             "repo": "obsidian-TRMNL",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1308,12 +1848,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugins for TRMNL ",
+            "homepage": null,
             "id": 1046005807,
             "language": "Liquid",
+            "license": "AGPL-3.0",
             "last_commit": "2025-12-05T14:46:54Z",
+            "open_issues": 2,
             "owner": "thepeopleseason",
             "repo": "trmnl-plugins",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1324,12 +1869,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An entry for the Postmark challenge on DEV.to",
+            "homepage": null,
             "id": 989783408,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-05-28T15:31:10Z",
+            "open_issues": 0,
             "owner": "schrockwell",
             "repo": "trmnl-postmark-challenge",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1340,12 +1890,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TRMNL plugin to show random PS2 title screens",
+            "homepage": "https://usetrmnl.com/recipes/130437",
             "id": 1032388707,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2026-01-12T11:28:54Z",
+            "open_issues": 0,
             "owner": "rknightuk",
             "repo": "trmnl-ps2-title-screens",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1356,12 +1911,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial plugin for TRMNL that fetches tasks from a selected list in a popular task management app and displays them on an e-ink screen. This product uses the Remember The Milk API but is not endorsed or certified by Remember The Milk.",
+            "homepage": null,
             "id": 905794699,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2025-05-18T08:01:36Z",
+            "open_issues": 0,
             "owner": "sejtenik",
             "repo": "trmnl-rtm-plugin",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1372,12 +1932,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trmnl plugin displaying Eeveelution prices from Terastal Festival ex & Prismatic Evolutions",
+            "homepage": null,
             "id": 945608947,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2025-03-09T20:11:53Z",
+            "open_issues": 1,
             "owner": "lannonbr",
             "repo": "trmnl-sv-eevee-prices",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1388,12 +1955,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 965653013,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-06-19T07:08:39Z",
+            "open_issues": 0,
             "owner": "abshirahmed",
             "repo": "trmnl-salah-times",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1404,12 +1976,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Track SAT GUS as it orbits the Earth!",
+            "homepage": null,
             "id": 1018327942,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2026-08-29T03:17:43Z",
+            "open_issues": 0,
             "owner": "loesak",
             "repo": "trmnl_satgus",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1420,12 +1997,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎟️ SeatGeek for TRMNL",
+            "homepage": "https://usetrmnl.com/recipes/120686",
             "id": 1021137436,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2026-08-01T15:53:14Z",
+            "open_issues": 0,
             "owner": "stephenyeargin",
             "repo": "trmnl-seatgeek",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "hacktoberfest",
+              "seatgeek",
+              "seatgeek-api",
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1436,12 +2024,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TRMNL e-ink display plugin that tracks ships in real-time using the VesselFinder API. Features include live position mapping with OpenStreetMap integration, speed and course monitoring, and customizable refresh intervals. Optimized for the TRMNL display system with dithered black and white graphics.",
+            "homepage": "https://usetrmnl.com/",
             "id": 905908954,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-30T22:05:42Z",
+            "open_issues": 0,
             "owner": "OptimumMeans",
             "repo": "TRMNL-Ship-Tracker",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "ais",
+              "ais-data",
+              "marine-data",
+              "ship-tracking",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1452,12 +2051,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Display Sleeper Standings on your TRMNL",
+            "homepage": null,
             "id": 1040372144,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2025-10-06T11:31:15Z",
+            "open_issues": 0,
             "owner": "bnussbau",
             "repo": "trmnl-sleeper-standings",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1468,12 +2075,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin for Star Wars news about Comic & Books for trmnl devices",
+            "homepage": null,
             "id": 1026982328,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2025-10-18T01:32:37Z",
+            "open_issues": 0,
             "owner": "mc-cari",
             "repo": "trmnl-starwars-book-feed",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1484,12 +2098,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TRMNL Recipe/Plugin for displaying top rated deals on Steam",
+            "homepage": null,
             "id": 934583215,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2025-11-21T05:48:47Z",
+            "open_issues": 0,
             "owner": "subtype-space",
             "repo": "trmnl-steam-deals",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1500,12 +2121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom plugin that shows Steam Sale Offers on trmnl device",
+            "homepage": null,
             "id": 1039875976,
             "language": "Blade",
+            "license": null,
             "last_commit": "2025-09-25T09:14:49Z",
+            "open_issues": 0,
             "owner": "andrzejskowron",
             "repo": "trmnl-steamsales",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1516,12 +2142,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "e-ink dashboard plugin logic",
+            "homepage": "https://docs.trmnl.com",
             "id": 825483567,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-08-23T23:15:12Z",
+            "open_issues": 3,
             "owner": "usetrmnl",
             "repo": "plugins",
-            "stars": 234
+            "stars": 234,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1532,12 +2165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Push Strava goals to TRMNL",
+            "homepage": null,
             "id": 902117793,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-22T09:52:24Z",
+            "open_issues": 2,
             "owner": "vinayak-mehta",
             "repo": "trmnl-strava-goals",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1548,12 +2186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 884602951,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-11-11T02:21:05Z",
+            "open_issues": 0,
             "owner": "pcifaldi",
             "repo": "surf_api",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1564,12 +2207,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugins for TRMNL.",
+            "homepage": null,
             "id": 941265067,
             "language": "Liquid",
+            "license": "GPL-2.0",
             "last_commit": "2026-03-25T18:54:13Z",
+            "open_issues": 0,
             "owner": "frjo",
             "repo": "usetrmnl-plugins",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "plugins",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1580,12 +2231,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inspirational Quotes for TRMNL e-ink display",
+            "homepage": null,
             "id": 890270909,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-10T21:42:46Z",
+            "open_issues": 0,
             "owner": "michaelgilch",
             "repo": "trmnl-quotes",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1596,12 +2252,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 908431390,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-25T17:28:28Z",
+            "open_issues": 5,
             "owner": "UpDryTwist",
             "repo": "trmnl-tides",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1612,12 +2273,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 993698284,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-12-07T08:41:45Z",
+            "open_issues": 0,
             "owner": "JJGrootveld",
             "repo": "trmnl-kr-tvguide",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1628,12 +2294,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "📡 Telegram → TRMNL Image Forwarder",
+            "homepage": null,
             "id": 1006651280,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-27T23:02:07Z",
+            "open_issues": 0,
             "owner": "yazdipour",
             "repo": "trmnl-telegram-bot",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "telegram-bot",
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1644,12 +2319,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "e-ink dashboard plugin logic",
+            "homepage": "https://docs.trmnl.com",
             "id": 825483567,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-08-23T23:15:12Z",
+            "open_issues": 3,
             "owner": "usetrmnl",
             "repo": "plugins",
-            "stars": 234
+            "stars": 234,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1660,12 +2342,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Report Teslamate data for display on a TRMNL device",
+            "homepage": null,
             "id": 969331100,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-04-29T12:06:33Z",
+            "open_issues": 1,
             "owner": "eden881",
             "repo": "trmnl-teslamate-reporter",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "e-ink",
+              "eink",
+              "mqtt",
+              "tesla",
+              "teslamate",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1676,12 +2370,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python program to generate data for a TRMNL plugin.",
+            "homepage": null,
             "id": 891079055,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-01-17T15:21:37Z",
+            "open_issues": 0,
             "owner": "frethop",
             "repo": "TRMNL-thisday",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1692,12 +2391,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "supporting data for tidbyt apps and TRMNL plugins",
+            "homepage": null,
             "id": 679254881,
             "language": null,
-            "last_commit": "2026-08-29T02:48:05Z",
+            "license": null,
+            "last_commit": "2026-08-29T04:48:05Z",
+            "open_issues": 0,
             "owner": "jvivona",
             "repo": "tidbyt-data",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1708,12 +2412,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Syncs Todoist tasks to TRMNL",
+            "homepage": null,
             "id": 882851300,
             "language": "Jinja",
+            "license": "MIT",
             "last_commit": "2024-11-06T21:45:05Z",
+            "open_issues": 1,
             "owner": "Nynir",
             "repo": "trmnl-todoist",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "todoist",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1724,12 +2436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 924218945,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2026-03-12T12:30:44Z",
+            "open_issues": 0,
             "owner": "stevekennedyuk",
             "repo": "trmnl-tfl-status",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1740,12 +2457,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 UptimeRobot for TRMNL",
+            "homepage": "https://usetrmnl.com/recipes/98765/",
             "id": 1003970652,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2026-08-01T15:53:30Z",
+            "open_issues": 0,
             "owner": "stephenyeargin",
             "repo": "trmnl-uptimerobot",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "hacktoberfest",
+              "trmnl",
+              "trmnl-plugin",
+              "uptimerobot",
+              "uptimerobot-api"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1756,12 +2484,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scripts and tools for tracking Valorant data",
+            "homepage": null,
             "id": 892962641,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-05-21T05:44:05Z",
+            "open_issues": 0,
             "owner": "MarkHopper24",
             "repo": "Valorant-Tools",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1772,12 +2505,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vienna Metro (Wiener Linien) Departures for TRMNL E-ink display",
+            "homepage": "https://usetrmnl.com/recipes/98534",
             "id": 1003466291,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2026-06-24T21:48:07Z",
+            "open_issues": 0,
             "owner": "bnussbau",
             "repo": "trmnl-vienna-metro-departures",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1788,12 +2529,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 910969061,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-05-08T21:05:07Z",
+            "open_issues": 0,
             "owner": "thamarnan",
             "repo": "TRMNL-NYT",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1804,12 +2550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Track weekly goals on a simple e-ink display",
+            "homepage": null,
             "id": 911500353,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-01-03T08:58:55Z",
+            "open_issues": 0,
             "owner": "azjgard",
             "repo": "trmnl-weekly-goal-tracker",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1820,12 +2571,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚏 WeGo Public Transit Next Trip for TRMNL",
+            "homepage": "https://usetrmnl.com/recipes/91940",
             "id": 1001798014,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2026-08-01T16:45:02Z",
+            "open_issues": 0,
             "owner": "transitnownash",
             "repo": "trmnl-wego-next-trip",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "gtfs",
+              "gtfs-realtime",
+              "nashville",
+              "transit",
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1836,12 +2599,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A trmnl plugin that displays a random Pokémon every day ",
+            "homepage": null,
             "id": 945268322,
             "language": "Liquid",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:03:49Z",
+            "open_issues": 1,
             "owner": "sriniketh",
             "repo": "trmnl-plugin-whos-that-pokemon",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1852,12 +2622,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 968414709,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-03T13:40:34Z",
+            "open_issues": 0,
             "owner": "sapochat",
             "repo": "whoop-trmnl",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1868,12 +2643,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 940239026,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2026-03-16T07:45:25Z",
+            "open_issues": 0,
             "owner": "jvdmeij",
             "repo": "trmnl-winnie-the-pooh",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1884,12 +2664,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wisdom Document Code for Trmnl Private Plugin",
+            "homepage": null,
             "id": 1006832927,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-02-10T14:05:48Z",
+            "open_issues": 0,
             "owner": "VisualYeti",
             "repo": "wisdom_trmnl",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1900,12 +2685,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 898616454,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-04T18:02:59Z",
+            "open_issues": 0,
             "owner": "yannicschuller",
             "repo": "trmnl-woocommerce",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1916,12 +2706,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 940238226,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2026-03-08T18:50:04Z",
+            "open_issues": 0,
             "owner": "jvdmeij",
             "repo": "trmnl-word-clock",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1932,12 +2727,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a simple word clock TRMNL style",
+            "homepage": null,
             "id": 933770872,
             "language": "HTML",
+            "license": "Unlicense",
             "last_commit": "2025-10-01T06:34:54Z",
+            "open_issues": 0,
             "owner": "delhoume",
             "repo": "trmnl_wordclock",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1948,12 +2748,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TRMNL Private Plugin: Words of the Day – Retrieves and displays the Word of the Day from various dictionaries on an e-ink screen.",
+            "homepage": null,
             "id": 921272898,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-04-25T13:16:11Z",
+            "open_issues": 0,
             "owner": "sejtenik",
             "repo": "trmnl-words-of-the-day-plugin",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1964,12 +2769,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This plug-in shows the progress of the year (dots or bar) on TRMNL device",
+            "homepage": null,
             "id": 946638978,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2026-07-06T17:28:26Z",
+            "open_issues": 0,
             "owner": "monsieurm",
             "repo": "trmnl-yearinprogress",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -1980,12 +2792,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 940238440,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2026-03-08T18:46:30Z",
+            "open_issues": 0,
             "owner": "jvdmeij",
             "repo": "trmnl-your-life-in-weeks",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         }
@@ -2002,12 +2819,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TRMNL Beszel Server Metrics Plugin",
+            "homepage": "https://usetrmnl.com/recipes/158906",
             "id": 1065988380,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2025-10-10T10:55:49Z",
+            "open_issues": 0,
             "owner": "yazdipour",
             "repo": "trmnl-beszel",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2018,12 +2840,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1071128073,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-07T02:03:40Z",
+            "open_issues": 1,
             "owner": "rish2jain",
             "repo": "Docker-TRMNL-Plugin",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2034,12 +2861,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://grafana-trmnl.defcon007.com",
             "id": 1012132586,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-09T23:57:57Z",
+            "open_issues": 3,
             "owner": "DefCon-007",
             "repo": "grafana-trmnl-plugin",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2050,12 +2882,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monitor Uptime Kuma status pages on a TRMNL e-ink device",
+            "homepage": "https://usetrmnl.com/recipes/159393",
             "id": 1067408947,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2026-07-21T10:10:42Z",
+            "open_issues": 0,
             "owner": "bnussbau",
             "repo": "trmnl-uptimekuma",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2066,12 +2906,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Script to push your Pi-Hole stats to a custom TRMNL plugin",
+            "homepage": null,
             "id": 981714754,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-07-07T18:23:15Z",
+            "open_issues": 0,
             "owner": "JBertaux",
             "repo": "pi-trmnl",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2082,12 +2927,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📸 Pixelfed for TRMNL",
+            "homepage": "https://usetrmnl.com/recipes/103958",
             "id": 1007467632,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2026-08-01T15:53:06Z",
+            "open_issues": 0,
             "owner": "stephenyeargin",
             "repo": "trmnl-pixelfed",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "hacktoberfest",
+              "pixelfed",
+              "pixelfed-api",
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2098,12 +2954,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "View the results on your TRMNL of them most recent backups (vzdumps) from your Proxmox VE nodes.",
+            "homepage": null,
             "id": 1065332344,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2026-07-03T22:31:44Z",
+            "open_issues": 0,
             "owner": "MartinBelko",
             "repo": "TRMNL-Plugin-Proxmox-Backups",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2114,12 +2975,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌐 Tailscale for TRMNL",
+            "homepage": "https://usetrmnl.com/recipes/108109",
             "id": 1010747693,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2026-08-01T15:53:24Z",
+            "open_issues": 1,
             "owner": "stephenyeargin",
             "repo": "trmnl-tailscale",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "hacktoberfest",
+              "tailscale",
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2130,12 +3001,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dashboard for Tautulli (Plex server user metrics) for TRMNL (https://usetrmnl.com/)",
+            "homepage": null,
             "id": 908836661,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-01-06T03:46:04Z",
+            "open_issues": 0,
             "owner": "hosfordryan",
             "repo": "trmnl-tautulli-dash",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2146,12 +3022,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛜 Unifi Site Manager for TRMNL",
+            "homepage": "https://usetrmnl.com/recipes/102852",
             "id": 1006784451,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:09:04Z",
+            "open_issues": 0,
             "owner": "stephenyeargin",
             "repo": "trmnl-unifi-site-manager",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "hacktoberfest",
+              "trmnl",
+              "trmnl-plugin",
+              "ubiquiti",
+              "unifi"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         }
@@ -2168,12 +3055,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💧 National Water Prediction Service Gauges for TRMNL",
+            "homepage": "https://usetrmnl.com/recipes/101750",
             "id": 1005874178,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2026-08-01T15:53:15Z",
+            "open_issues": 0,
             "owner": "stephenyeargin",
             "repo": "trmnl-nwps-gauges",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "hacktoberfest",
+              "noaa-weather",
+              "trmnl",
+              "trmnl-plugin",
+              "usgs-data"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2184,12 +3082,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 933871987,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-13T22:05:49Z",
+            "open_issues": 3,
             "owner": "evandhoffman",
             "repo": "trmnl-pws",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2200,12 +3103,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 930701215,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-16T04:06:02Z",
+            "open_issues": 1,
             "owner": "yshrdbrn",
             "repo": "trmnl-bring-plugin",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2216,12 +3124,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of Buienradar for the TRMNL",
+            "homepage": null,
             "id": 936174411,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-12-12T18:41:28Z",
+            "open_issues": 0,
             "owner": "Akisame-AI",
             "repo": "TRMNL_buienradar",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2232,12 +3145,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON data cache for Home Assistant, TRMNL and more",
+            "homepage": "https://dcache.schademarmelade.de/",
             "id": 827469275,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-07-18T21:23:05Z",
+            "open_issues": 0,
             "owner": "ramdacxp",
             "repo": "dcache",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "home-assistant",
+              "php",
+              "rest-api",
+              "trmnl",
+              "webapi",
+              "webapp"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2248,12 +3173,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Garbage calendar for TRMNL",
+            "homepage": null,
             "id": 1008981514,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2025-06-26T11:56:20Z",
+            "open_issues": 0,
             "owner": "hrdkbhatnagar",
             "repo": "trml-garbage-calendar",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2264,12 +3194,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A HACS custom component for Home Assistant that pushes data to TRMNL.com webhook to display on their e-ink device",
+            "homepage": null,
             "id": 931202978,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-23T11:18:43Z",
+            "open_issues": 3,
             "owner": "gitstua",
             "repo": "trmnl-sensor-push",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "hacs-custom",
+              "home-assistant"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2280,12 +3218,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "homeassistant addon for https://github.com/ohAnd/trmnlServer",
+            "homepage": "https://github.com/ohAnd/trmnlServer",
             "id": 938314275,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-04-04T04:58:42Z",
+            "open_issues": 2,
             "owner": "ohAnd",
             "repo": "trmnlServer_ha_addon",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "homeassistant-addons",
+              "trmnl",
+              "trmnlserver"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2296,12 +3243,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a custom Home Assistant integration for sending data to TRMNL via a webhook.",
+            "homepage": null,
             "id": 926694918,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-07T04:46:14Z",
+            "open_issues": 0,
             "owner": "Jobey99",
             "repo": "useTRMNL-Home-Assistant",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "home-assistant",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2312,12 +3267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A utility that polls HomeAssistant for enity metadata, and publishes it to a TRMNL webhook",
+            "homepage": null,
             "id": 1032762140,
             "language": "Go",
+            "license": null,
             "last_commit": "2025-08-06T21:09:25Z",
+            "open_issues": 0,
             "owner": "fisherevans",
             "repo": "ha2trmnl",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2328,12 +3288,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TRMNL Dashboard integration for Home Assistant - Display your Home Assistant data on TRMNL e-ink displays",
+            "homepage": null,
             "id": 1069405151,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-30T10:47:55Z",
+            "open_issues": 4,
             "owner": "pwojtaszko",
             "repo": "trmnl-home-assistant-plugin",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "custom-component",
+              "dashboard",
+              "eink",
+              "hacs",
+              "home-assistant",
+              "home-automation",
+              "integration",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2344,12 +3318,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤧 Nashville Pollen & Air Quality for TRMNL",
+            "homepage": "https://usetrmnl.com/recipes/93912",
             "id": 1001797115,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2026-08-01T16:43:25Z",
+            "open_issues": 0,
             "owner": "stephenyeargin",
             "repo": "trmnl-nashville-pollen-aqi",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "air-quality",
+              "hacktoberfest",
+              "nashville",
+              "pollen",
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2360,12 +3346,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set up TRMNL plugin to show energy usage",
+            "homepage": null,
             "id": 1045191624,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-15T11:39:56Z",
+            "open_issues": 0,
             "owner": "marksankey",
             "repo": "Energy_Usage",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2376,12 +3367,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Weather forecast plugin for @usetrmnl, using data from Open-Meteo. No API Key needed. Install/fork from the link below!",
+            "homepage": "https://usetrmnl.com/recipes/112422",
             "id": 1011360485,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2026-02-17T16:45:18Z",
+            "open_issues": 7,
             "owner": "andi4000",
             "repo": "trmnl-open-meteo-weather-forecast",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2392,12 +3391,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pollen Forecast (EU) for TRMNL e-ink display",
+            "homepage": "https://usetrmnl.com/recipes/56803",
             "id": 980746304,
             "language": "Liquid",
+            "license": "MIT",
             "last_commit": "2026-07-01T21:18:49Z",
+            "open_issues": 1,
             "owner": "bnussbau",
             "repo": "trmnl-pollen-forecast-eu",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2408,12 +3415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin for TRMNL e-inc Dashboard Display to show hourly price throughout the day for tibber customers in norway. Takes a more simpler approach by only needing the postal code.",
+            "homepage": null,
             "id": 1064002810,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2026-07-03T22:31:27Z",
+            "open_issues": 0,
             "owner": "MartinBelko",
             "repo": "TRMNL-Plugin-Tibber-Norway",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2424,12 +3436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TRMNL plugin that shows current water level",
+            "homepage": null,
             "id": 1023012920,
             "language": "Go",
+            "license": null,
             "last_commit": "2025-10-04T14:58:06Z",
+            "open_issues": 6,
             "owner": "timgluz",
             "repo": "wasserspiegel",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2440,12 +3457,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugins for TRMNL ",
+            "homepage": null,
             "id": 1046005807,
             "language": "Liquid",
+            "license": "AGPL-3.0",
             "last_commit": "2025-12-05T14:46:54Z",
+            "open_issues": 2,
             "owner": "thepeopleseason",
             "repo": "trmnl-plugins",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2456,12 +3478,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple TRMNL plugin for grabbing the current state of YoLink temperature sensors.",
+            "homepage": null,
             "id": 999073784,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-06-11T03:17:06Z",
+            "open_issues": 0,
             "owner": "erikbuild",
             "repo": "trmnl-yolink-temperature",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "trmnl",
+              "trmnl-plugin"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2472,12 +3502,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create an image for use in a TRMNL display",
+            "homepage": "https://leipeleon.github.io/zonneplan/",
             "id": 992809989,
             "language": "Ruby",
-            "last_commit": "2026-08-29T03:22:31Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:22:13Z",
+            "open_issues": 0,
             "owner": "LeipeLeon",
             "repo": "zonneplan",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "pricing-solar-panels",
+              "solar"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         }
@@ -2494,12 +3532,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utility to display TRMNL screens on an Android device",
+            "homepage": "https://trmnl.com",
             "id": 974297495,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2026-08-19T16:27:38Z",
+            "open_issues": 3,
             "owner": "usetrmnl",
             "repo": "trmnl-android",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "android",
+              "android-app",
+              "trmnl",
+              "trmnl-android"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2510,12 +3558,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A self-hosted, community-driven server (BYOS) with Recipe support in PHP's Laravel framework",
+            "homepage": "https://usetrmnl.github.io/larapaper/",
             "id": 942927441,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:15:23Z",
+            "open_issues": 12,
             "owner": "usetrmnl",
             "repo": "larapaper",
-            "stars": 381
+            "stars": 381,
+            "topics": [
+              "byos",
+              "epaper",
+              "laravel",
+              "trmnl",
+              "trmnlserver"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2526,12 +3585,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A BYOS Next.js implementation.",
+            "homepage": "https://byos-next-demo.vercel.app",
             "id": 946785778,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-02T09:52:37Z",
+            "open_issues": 4,
             "owner": "usetrmnl",
             "repo": "byos_next",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "byos",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2542,12 +3609,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The flagship TRMNL BYOS application.",
+            "homepage": "https://alchemists.io/projects/terminus",
             "id": 946998450,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-27T13:58:40Z",
+            "open_issues": 1,
             "owner": "usetrmnl",
             "repo": "terminus",
-            "stars": 698
+            "stars": 698,
+            "topics": [
+              "byos",
+              "epaper",
+              "hanami",
+              "htmx",
+              "ruby",
+              "server",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2558,12 +3638,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your own Trmnl from scratch. Well almost - atleast there is some helpful files in here :)",
+            "homepage": null,
             "id": 933204041,
             "language": null,
+            "license": null,
             "last_commit": "2025-02-21T22:58:18Z",
+            "open_issues": 0,
             "owner": "ruohki",
             "repo": "makeshift-trmnl",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2574,12 +3659,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "New Tab Extension for Chrome that displays your current TRMNL screen whenever you open a new tab.",
+            "homepage": null,
             "id": 944882058,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-18T12:06:01Z",
+            "open_issues": 0,
             "owner": "usetrmnl",
             "repo": "trmnl-chrome",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2590,12 +3680,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn your Kindle into a personal dashboard",
+            "homepage": null,
             "id": 967019652,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-17T07:37:30Z",
+            "open_issues": 0,
             "owner": "usetrmnl",
             "repo": "trmnl-kindle",
-            "stars": 398
+            "stars": 398,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2606,12 +3701,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "turn a Kobo reader into a TRMNL display",
+            "homepage": null,
             "id": 974577114,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-03-02T10:54:24Z",
+            "open_issues": 12,
             "owner": "usetrmnl",
             "repo": "trmnl-kobo",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2622,12 +3722,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "turn a Nook into a TRMNL display",
+            "homepage": "https://trmnl.com",
             "id": 1023812238,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2026-02-17T15:36:23Z",
+            "open_issues": 0,
             "owner": "usetrmnl",
             "repo": "trmnl-nook",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "e-ink",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2638,12 +3746,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 934311881,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-02-19T17:53:17Z",
+            "open_issues": 0,
             "owner": "tobias-theobald",
             "repo": "epd-node-trmnl",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2654,12 +3767,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BYOS for TRMNL",
+            "homepage": "https://kuroshiro-demo.phyberapex.de/",
             "id": 993917617,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:33:50Z",
+            "open_issues": 8,
             "owner": "PhyberApex",
             "repo": "kuroshiro",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2670,12 +3788,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build efficient, pixel-perfect server-side React apps for TRMNL e-ink devices.",
+            "homepage": null,
             "id": 929531946,
             "language": "TypeScript",
+            "license": "ISC",
             "last_commit": "2025-05-10T20:53:52Z",
+            "open_issues": 0,
             "owner": "pascal-giguere",
             "repo": "react-trmnl",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2686,12 +3811,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A server for the TRNML e-ink dashbaord.",
+            "homepage": null,
             "id": 944827022,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-25T05:16:09Z",
+            "open_issues": 0,
             "owner": "donmccaughey",
             "repo": "trmnl_srv",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2702,12 +3832,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D printable accessories to mount your device",
+            "homepage": "https://trmnl.com",
             "id": 910900662,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-05T20:56:01Z",
+            "open_issues": 0,
             "owner": "usetrmnl",
             "repo": "mounts",
-            "stars": 148
+            "stars": 148,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2718,12 +3855,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental companion app to monitor TRMNL devices on the go!",
+            "homepage": "https://trmnl.com",
             "id": 1068337822,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2026-08-18T02:23:44Z",
+            "open_issues": 2,
             "owner": "hossain-khan",
             "repo": "trmnl-android-buddy",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "android",
+              "trmnl",
+              "trmnl-android",
+              "trmnl-app"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2734,12 +3881,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TRMNL local server to simulate the cloud service locally to serve own BMP's directly",
+            "homepage": null,
             "id": 887481292,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-01T16:24:47Z",
+            "open_issues": 3,
             "owner": "ohAnd",
             "repo": "trmnlServer",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "localserver",
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2750,12 +3905,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a local dev server for building TRMNL plugins",
+            "homepage": null,
             "id": 912549253,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-17T05:36:09Z",
+            "open_issues": 1,
             "owner": "usetrmnl",
             "repo": "trmnlp",
-            "stars": 227
+            "stars": 227,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         },
@@ -2766,12 +3926,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tips and tricks for creating TRMNL plugins",
+            "homepage": null,
             "id": 969957358,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-08-02T14:48:11Z",
+            "open_issues": 1,
             "owner": "yunruse",
             "repo": "trmnl-tricks",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "trmnl"
+            ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
         }
@@ -2780,15 +3947,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:23:05.704Z",
+    "last_updated": "2026-08-29T04:53:52.554Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📟 Curated list of awesome TRMNL open-source projects, guides, blogs and other resources.",
+      "homepage": null,
       "id": 910305304,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-01-30T21:44:57Z",
+      "open_issues": 0,
       "owner": "eindpunt",
       "repo": "awesome-TRMNL",
-      "stars": 170
+      "stars": 170,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "lists",
+        "trmnl"
+      ]
     },
     "original_repository_sha": "c225a86563373d1548006a3c1fadc75369248822",
     "enhanced_repository": "enhansome/enhansome-TRMNL",
