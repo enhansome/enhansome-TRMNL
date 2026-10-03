@@ -415,7 +415,7 @@
             "open_issues": 1,
             "owner": "usetrmnl",
             "repo": "plugins",
-            "stars": 236,
+            "stars": 237,
             "topics": [
               "trmnl"
             ]
@@ -1020,7 +1020,7 @@
             "open_issues": 1,
             "owner": "usetrmnl",
             "repo": "plugins",
-            "stars": 236,
+            "stars": 237,
             "topics": [
               "trmnl"
             ]
@@ -1148,7 +1148,7 @@
             "open_issues": 1,
             "owner": "usetrmnl",
             "repo": "plugins",
-            "stars": 236,
+            "stars": 237,
             "topics": [
               "trmnl"
             ]
@@ -1613,7 +1613,7 @@
             "id": 1011411823,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T21:06:21Z",
+            "last_commit": "2026-10-03T00:50:42Z",
             "open_issues": 0,
             "owner": "dmlandin",
             "repo": "TRMNLmoneyRates",
@@ -1981,7 +1981,7 @@
             "id": 1018327942,
             "language": "Liquid",
             "license": null,
-            "last_commit": "2026-10-02T23:06:39Z",
+            "last_commit": "2026-10-03T03:42:56Z",
             "open_issues": 0,
             "owner": "loesak",
             "repo": "trmnl_satgus",
@@ -2151,7 +2151,7 @@
             "open_issues": 1,
             "owner": "usetrmnl",
             "repo": "plugins",
-            "stars": 236,
+            "stars": 237,
             "topics": [
               "trmnl"
             ]
@@ -2328,7 +2328,7 @@
             "open_issues": 1,
             "owner": "usetrmnl",
             "repo": "plugins",
-            "stars": 236,
+            "stars": 237,
             "topics": [
               "trmnl"
             ]
@@ -2396,7 +2396,7 @@
             "id": 679254881,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-03T00:34:04Z",
+            "last_commit": "2026-10-03T04:01:22Z",
             "open_issues": 0,
             "owner": "jvivona",
             "repo": "tidbyt-data",
@@ -3507,7 +3507,7 @@
             "id": 992809989,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:56:31Z",
+            "last_commit": "2026-10-03T01:53:00Z",
             "open_issues": 0,
             "owner": "LeipeLeon",
             "repo": "zonneplan",
@@ -3689,7 +3689,7 @@
             "open_issues": 2,
             "owner": "usetrmnl",
             "repo": "trmnl-kindle",
-            "stars": 442,
+            "stars": 443,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
@@ -3947,7 +3947,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:44:58.865Z",
+    "last_updated": "2026-10-03T04:31:37.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "📟 Curated list of awesome TRMNL open-source projects, guides, blogs and other resources.",
