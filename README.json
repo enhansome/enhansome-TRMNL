@@ -97,11 +97,11 @@
             "id": 742912310,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-04T20:58:14Z",
-            "open_issues": 120,
+            "last_commit": "2026-11-05T23:11:21Z",
+            "open_issues": 122,
             "owner": "usetrmnl",
             "repo": "trmnl-firmware",
-            "stars": 1203,
+            "stars": 1204,
             "topics": [
               "e-ink",
               "iot-device",
@@ -567,6 +567,30 @@
         },
         {
           "node_type": "item",
+          "title": "Bandcamp Album of the Day",
+          "description": "Title, artist, and album art from Bandcamp's Album of the Day leoherzog Plugin Entertainment / Music Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "TRMNL plugin: Bandcamp Album of the Day",
+            "homepage": "https://trmnl.com/recipes/260387",
+            "id": 1285090397,
+            "language": "Liquid",
+            "license": null,
+            "last_commit": "2026-10-16T19:30:37Z",
+            "open_issues": 0,
+            "owner": "leoherzog",
+            "repo": "trmnl-bandcamp-album-of-the-day",
+            "stars": 0,
+            "topics": [
+              "trmnl",
+              "trmnl-plugin"
+            ]
+          },
+          "first_seen": "2026-11-06T01:48:52.098Z"
+        },
+        {
+          "node_type": "item",
           "title": "Baseball schedule: St. Louis Cardinals",
           "description": "Fetch St. Louis Cardinals baseball schedule & standings kevdog114 Plugin Sports USA",
           "children": [],
@@ -803,7 +827,7 @@
             "id": 901296873,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-04T21:11:56Z",
+            "last_commit": "2026-11-05T23:30:01Z",
             "open_issues": 0,
             "owner": "AlixAbbasi",
             "repo": "TRMNL-Sec-Deadlines",
@@ -1157,6 +1181,30 @@
         },
         {
           "node_type": "item",
+          "title": "Ham Radio Solar Weather",
+          "description": "Solar weather and radio propagation conditions from hamqsl.com leoherzog Plugin Weather / Science Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "TRMNL plugin: ham radio solar weather and band conditions",
+            "homepage": "https://trmnl.com/recipes/324600",
+            "id": 1285090331,
+            "language": "Liquid",
+            "license": null,
+            "last_commit": "2026-10-16T19:01:39Z",
+            "open_issues": 0,
+            "owner": "leoherzog",
+            "repo": "trmnl-ham-radio-solar-weather",
+            "stars": 0,
+            "topics": [
+              "trmnl",
+              "trmnl-plugin"
+            ]
+          },
+          "first_seen": "2026-11-06T01:48:52.098Z"
+        },
+        {
+          "node_type": "item",
           "title": "Hardcover statistics",
           "description": "Display Hardcover social network statistics for book lovers jacobtender Plugin Lifestyle / Education Global",
           "children": [],
@@ -1474,7 +1522,7 @@
             "id": 908276242,
             "language": "PowerShell",
             "license": null,
-            "last_commit": "2026-11-04T12:54:08Z",
+            "last_commit": "2026-11-05T13:02:06Z",
             "open_issues": 0,
             "owner": "MarkHopper24",
             "repo": "Marvel-Character-of-the-Day",
@@ -1613,7 +1661,7 @@
             "id": 1011411823,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-04T21:38:27Z",
+            "last_commit": "2026-11-05T22:35:28Z",
             "open_issues": 0,
             "owner": "dmlandin",
             "repo": "TRMNLmoneyRates",
@@ -1743,6 +1791,51 @@
         },
         {
           "node_type": "item",
+          "title": "News Briefing",
+          "description": "Hourly LLM-ranked news for nine verticals with a QR code per story; published recipe, also in the recipe catalog for BYOS servers jshelley Plugin News / Media Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "TRMNL recipe: hourly LLM-edited news briefings (AI, markets, sports, world, crypto) with a QR code per story. trmnlp project, free data.",
+            "homepage": null,
+            "id": 1382887526,
+            "language": "Liquid",
+            "license": "MIT",
+            "last_commit": "2026-09-23T15:07:59Z",
+            "open_issues": 0,
+            "owner": "jshelley",
+            "repo": "trmnl-news-briefing",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-06T01:48:52.098Z"
+        },
+        {
+          "node_type": "item",
+          "title": "NWS Severe Weather Alerts",
+          "description": "Severe weather alerts from the National Weather Service for your area leoherzog Plugin Weather USA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "TRMNL plugin: NWS severe weather alerts",
+            "homepage": "https://trmnl.com/recipes/46722",
+            "id": 1285090671,
+            "language": "Liquid",
+            "license": null,
+            "last_commit": "2026-10-16T20:48:23Z",
+            "open_issues": 0,
+            "owner": "leoherzog",
+            "repo": "trmnl-nws-severe-weather",
+            "stars": 0,
+            "topics": [
+              "trmnl",
+              "trmnl-plugin"
+            ]
+          },
+          "first_seen": "2026-11-06T01:48:52.098Z"
+        },
+        {
+          "node_type": "item",
           "title": "Nightscout - blood sugar data",
           "description": "TRMNL Nightscout fetches blood sugar data from Nightscout gabe565 Plugin Health / Medical Global",
           "children": [],
@@ -1840,6 +1933,30 @@
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OP3 Podcast Analytics",
+          "description": "Track your podcast's download stats from OP3 leoherzog Plugin Entertainment / Analytics Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "TRMNL plugin: OP3 podcast download stats",
+            "homepage": "https://trmnl.com/recipes/153142",
+            "id": 1285090571,
+            "language": "Liquid",
+            "license": null,
+            "last_commit": "2026-10-18T14:46:02Z",
+            "open_issues": 0,
+            "owner": "leoherzog",
+            "repo": "trmnl-op3",
+            "stars": 0,
+            "topics": [
+              "trmnl",
+              "trmnl-plugin"
+            ]
+          },
+          "first_seen": "2026-11-06T01:48:52.098Z"
         },
         {
           "node_type": "item",
@@ -1981,7 +2098,7 @@
             "id": 1018327942,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-04T21:28:12Z",
+            "last_commit": "2026-11-05T21:33:07Z",
             "open_issues": 0,
             "owner": "loesak",
             "repo": "trmnl_satgus",
@@ -2043,6 +2160,30 @@
             ]
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Sleeper One-on-One Matchups",
+          "description": "This week's Sleeper fantasy football matchups for your league leoherzog Plugin Sports / Fantasy Football Global",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "TRMNL plugin: Sleeper fantasy football matchups",
+            "homepage": "https://trmnl.com/recipes/140718",
+            "id": 1285090527,
+            "language": "Liquid",
+            "license": null,
+            "last_commit": "2026-11-01T03:10:25Z",
+            "open_issues": 0,
+            "owner": "leoherzog",
+            "repo": "trmnl-sleeper-matchups",
+            "stars": 0,
+            "topics": [
+              "trmnl",
+              "trmnl-plugin"
+            ]
+          },
+          "first_seen": "2026-11-06T01:48:52.098Z"
         },
         {
           "node_type": "item",
@@ -2212,7 +2353,7 @@
             "id": 941265067,
             "language": "Liquid",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-01T06:59:35Z",
+            "last_commit": "2026-11-05T08:25:03Z",
             "open_issues": 0,
             "owner": "frjo",
             "repo": "usetrmnl-plugins",
@@ -2396,7 +2537,7 @@
             "id": 679254881,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-05T01:34:54Z",
+            "last_commit": "2026-11-06T01:34:05Z",
             "open_issues": 0,
             "owner": "jvivona",
             "repo": "tidbyt-data",
@@ -2604,7 +2745,7 @@
             "id": 945268322,
             "language": "Liquid",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T19:36:14Z",
+            "last_commit": "2026-11-05T19:45:39Z",
             "open_issues": 2,
             "owner": "sriniketh",
             "repo": "trmnl-plugin-whos-that-pokemon",
@@ -3507,7 +3648,7 @@
             "id": 992809989,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-05T01:15:00Z",
+            "last_commit": "2026-11-06T01:14:07Z",
             "open_issues": 0,
             "owner": "LeipeLeon",
             "repo": "zonneplan",
@@ -3537,7 +3678,7 @@
             "id": 974297495,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-11-05T00:32:40Z",
+            "last_commit": "2026-11-05T01:56:42Z",
             "open_issues": 5,
             "owner": "usetrmnl",
             "repo": "trmnl-android",
@@ -3563,11 +3704,11 @@
             "id": 942927441,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-01T13:33:57Z",
+            "last_commit": "2026-11-05T22:04:18Z",
             "open_issues": 25,
             "owner": "usetrmnl",
             "repo": "larapaper",
-            "stars": 443,
+            "stars": 444,
             "topics": [
               "byos",
               "epaper",
@@ -3614,7 +3755,7 @@
             "id": 946998450,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-05T00:15:22Z",
+            "last_commit": "2026-11-05T20:12:14Z",
             "open_issues": 2,
             "owner": "usetrmnl",
             "repo": "terminus",
@@ -3763,7 +3904,7 @@
         {
           "node_type": "item",
           "title": "Kuroshiro",
-          "description": "Kuroshiro is an open-source BYOS (Bring Your Own Server) PhyberApex Server Extra",
+          "description": "Self-hosted server (BYOS) that imports trmnl.com Recipes, incl. serverless-transform ones. One Docker image + Postgres, NestJS/Vue, live demo PhyberApex Server Extra",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3772,7 +3913,7 @@
             "id": 993917617,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T22:03:11Z",
+            "last_commit": "2026-11-05T20:28:18Z",
             "open_issues": 5,
             "owner": "PhyberApex",
             "repo": "kuroshiro",
@@ -3935,7 +4076,7 @@
             "open_issues": 2,
             "owner": "usetrmnl",
             "repo": "trmnlp",
-            "stars": 238,
+            "stars": 239,
             "topics": [
               "epaper",
               "trmnl"
@@ -3971,7 +4112,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:48:32.654Z",
+    "last_updated": "2026-11-06T01:48:52.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "📟 Curated list of awesome TRMNL open-source projects, guides, blogs and other resources.",
@@ -3979,8 +4120,8 @@
       "id": 910305304,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-09-16T10:58:25Z",
-      "open_issues": 7,
+      "last_commit": "2026-11-05T21:39:30Z",
+      "open_issues": 0,
       "owner": "eindpunt",
       "repo": "awesome-TRMNL",
       "stars": 173,
@@ -3991,7 +4132,7 @@
         "trmnl"
       ]
     },
-    "original_repository_sha": "f2792d7fcd38f0f4aba02ff9f4e59581bffa6a45",
+    "original_repository_sha": "d80d04aa09c88c17de1cf9e04f68792c6c53c7fe",
     "enhanced_repository": "enhansome/enhansome-TRMNL",
     "enhanced_repository_description": null,
     "title": "Awesome TRMNL with stars"
