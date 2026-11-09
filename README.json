@@ -98,10 +98,10 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-11-07T01:01:09Z",
-            "open_issues": 107,
+            "open_issues": 108,
             "owner": "usetrmnl",
             "repo": "trmnl-firmware",
-            "stars": 1206,
+            "stars": 1207,
             "topics": [
               "e-ink",
               "iot-device",
@@ -415,7 +415,7 @@
             "open_issues": 3,
             "owner": "usetrmnl",
             "repo": "plugins",
-            "stars": 239,
+            "stars": 240,
             "topics": [
               "trmnl"
             ]
@@ -510,7 +510,7 @@
             "open_issues": 0,
             "owner": "ItsJustThomas",
             "repo": "trmnl-anki",
-            "stars": 8,
+            "stars": 9,
             "topics": [
               "anki",
               "anki-addon",
@@ -827,7 +827,7 @@
             "id": 901296873,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-08T00:19:54Z",
+            "last_commit": "2026-11-08T21:54:33Z",
             "open_issues": 0,
             "owner": "AlixAbbasi",
             "repo": "TRMNL-Sec-Deadlines",
@@ -1044,7 +1044,7 @@
             "open_issues": 3,
             "owner": "usetrmnl",
             "repo": "plugins",
-            "stars": 239,
+            "stars": 240,
             "topics": [
               "trmnl"
             ]
@@ -1172,7 +1172,7 @@
             "open_issues": 3,
             "owner": "usetrmnl",
             "repo": "plugins",
-            "stars": 239,
+            "stars": 240,
             "topics": [
               "trmnl"
             ]
@@ -1522,7 +1522,7 @@
             "id": 908276242,
             "language": "PowerShell",
             "license": null,
-            "last_commit": "2026-11-07T11:38:40Z",
+            "last_commit": "2026-11-08T11:50:45Z",
             "open_issues": 0,
             "owner": "MarkHopper24",
             "repo": "Marvel-Character-of-the-Day",
@@ -1661,7 +1661,7 @@
             "id": 1011411823,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-07T23:30:28Z",
+            "last_commit": "2026-11-09T00:22:51Z",
             "open_issues": 0,
             "owner": "dmlandin",
             "repo": "TRMNLmoneyRates",
@@ -2098,7 +2098,7 @@
             "id": 1018327942,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-07T19:35:58Z",
+            "last_commit": "2026-11-08T19:55:50Z",
             "open_issues": 0,
             "owner": "loesak",
             "repo": "trmnl_satgus",
@@ -2292,7 +2292,7 @@
             "open_issues": 3,
             "owner": "usetrmnl",
             "repo": "plugins",
-            "stars": 239,
+            "stars": 240,
             "topics": [
               "trmnl"
             ]
@@ -2469,7 +2469,7 @@
             "open_issues": 3,
             "owner": "usetrmnl",
             "repo": "plugins",
-            "stars": 239,
+            "stars": 240,
             "topics": [
               "trmnl"
             ]
@@ -2537,7 +2537,7 @@
             "id": 679254881,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-08T00:34:07Z",
+            "last_commit": "2026-11-09T01:03:03Z",
             "open_issues": 0,
             "owner": "jvivona",
             "repo": "tidbyt-data",
@@ -2745,7 +2745,7 @@
             "id": 945268322,
             "language": "Liquid",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T17:39:21Z",
+            "last_commit": "2026-11-08T17:48:55Z",
             "open_issues": 2,
             "owner": "sriniketh",
             "repo": "trmnl-plugin-whos-that-pokemon",
@@ -3648,7 +3648,7 @@
             "id": 992809989,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-08T00:37:11Z",
+            "last_commit": "2026-11-09T00:37:35Z",
             "open_issues": 0,
             "owner": "LeipeLeon",
             "repo": "zonneplan",
@@ -3704,11 +3704,11 @@
             "id": 942927441,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-06T18:04:47Z",
+            "last_commit": "2026-11-08T19:59:01Z",
             "open_issues": 25,
             "owner": "usetrmnl",
             "repo": "larapaper",
-            "stars": 446,
+            "stars": 447,
             "topics": [
               "byos",
               "epaper",
@@ -3830,7 +3830,7 @@
             "open_issues": 0,
             "owner": "usetrmnl",
             "repo": "trmnl-kindle",
-            "stars": 469,
+            "stars": 470,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:43.468Z"
@@ -3913,8 +3913,8 @@
             "id": 993917617,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-07T13:15:03Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-08T21:58:17Z",
+            "open_issues": 8,
             "owner": "PhyberApex",
             "repo": "kuroshiro",
             "stars": 11,
@@ -4112,7 +4112,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T00:54:29.102Z",
+    "last_updated": "2026-11-09T01:13:40.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "📟 Curated list of awesome TRMNL open-source projects, guides, blogs and other resources.",
